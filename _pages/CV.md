@@ -7,48 +7,65 @@ nav: true
 ---
 ## Computational Neurosicence PhD Student
 
+
+
 ***
+
+<h3> <span style="color:#DAA520">Publications and Posters </span></h3>
+
+*First Author
+
+2023 - Cosyne Poster   <br>
+Clémentine C. J. Dominé*, Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' 
+
+2023 - Cosyne Talk  (Top 3%) <br>
+Emmett Thompson*, 'Replay of motor sequences in dorsolateral striatum during offline consolidation are revealed using a unsupervised point process model', Poster in FENS For(2022).(Poster)
+
+
+2022 - NeurIPS Conference Paper  <br>
+Clémentine C. J. Dominé**,* Lukas Braun*, 'Exact learning dynamics of deep linear networks with prior knowledge', NeurIPS (2022). (Paper)
+
+2022 - FENS Forum   <br>
+Emmett Thompson*, 'Replay of motor sequences in dorsolateral striatum during offline consolidation are revealed using a unsupervised point process model', Poster in FENS For(2022).(Poster)
+
+***
+
 
 <h3> <span style="color:#DAA520">Education </span></h3>
 
+###### 2020-Present <br>
 
 #### Gatsby Computational Neuroscience Unit, University College London (UCL), London, United Kingdom
- <em>Ph.D 2020-Present</em> <br>
-Supervised by Andrew Saxe and Caswell Barry, I am studying the theory and computation at the basis of learning and memory. Research direction include: 
+
+Ph.D supervised by Andrew Saxe and Caswell Barry, I am studying the theory and computation at the basis of learning and memory. Research direction include: 
 <ul>
     <li>Exact learning dynamics of in Deep Linear Neural Network with Prior Knowledge Implement an unsupervised point process model for replay detection of motor sequences in the dorsolateral striatum. </li>
     <li>Revealed first evidence for off-line consolidation of procedural memory in the dorsolateral striatum.</li>
-    <li>Reinforcement learning framework to reproducibly compare hippocampus and entorhinal cortex models against experimental results.</li>
-    <li> Help better understand the function of this brain region in the memory and learning mechanisms.</li>
+    <li>Reinforcement learning framework to reproducibly compare hippocampus and entorhinal cortex models against experimental results.
+    Help better understand the function of this brain region in the memory and learning mechanisms.</li>
 </ul>
 <em>Notable modules:</em> Kernels, Probabilistic, Variational Inference, Reinforcement Learning, Theoretical Neuroscience.
 
-<em>Other Occupations:</em> 
-<ul>
-    <li>Reviewer for NeurIPS Workshop NeurReps 2022 </li>
-    <li>Assisted to Cosyn Conference (2021) </li>
-    <li>Poster presentation at the SWC Internal Symposium</li>
-    <li>Organiser of Sainsbury Wellcome Centre (SWC) Annual Student Symposium</li>
-    <li>Athena Swan Committee member at SWC/GCNU</li>  
-    <li>Theoretical Neuroscience Journal Club organiser</li>
-</ul>
 
+###### 2016 - 2020
 #### The University of Manchester (UoM), Manchester, United Kingdom
 
 <em>Masters of Physics with Theoretical Physics 2016 - 2020</em><br>
+
+Masters thesis: Study of E-kick procedure optimization using PIC code simulation for
+non-neutral plasma with the ALPHA experiment at CERN. (Master Thesis Part 1 & 2 )
+
 <em>Notable modules:</em> Quantum Field Theory, Gauge Theories, Advanced Statistical Physics, Non-Linear Dynamics.
-<ul>Masters thesis: Study of E-kick procedure optimization using PIC code simulation for
-non-neutral plasma with the ALPHA experiment at CERN. (Master Thesis Part 1 & 2 )</ul>
-<em>Other Occupations:</em>
-<ul><li>Student representative on UCIL Staff Student Liaison Committee (SSLC)</li></ul>
+
 First-Class Honours, Grade 80%
 
+
+###### 2018 - 2019
 #### The University of California Los Angeles (UCLA), Los Angeles, USA
 
 <em>UC Education Abroad (3rd Year) 2018 - 2019</em><br>
 <em>Notable modules:</em> Particle Physics, Advanced Quantum Mechanics, Biophysics 
-<em>Other Occupations:</em>
-<ul><li>Student representative</li></ul>
+
 GPA:4.0
 
 ***
@@ -81,52 +98,107 @@ Study of the E-kick procedure optimization using MATLAB PIC code simulation for 
 
 The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at studying fundamental symmetries between matter and anti-matter. I developed my computing and electronic skills by working on a project around a “push-pull” Mosfet circuit for the security valve of the apparatus. I developed computing and electronic skills by working on the electronic circuit of the security valve for the cryostat for the future Alpha-G experiment measuring the gravity constant with anti-matter. Day-to-day running of the experiment. (Record of the most anti-hydrogen caught) Assisted Summer Student lectures. Certified guide inside the AD facility.
   
-***
 
-<h3> <span style="color:#DAA520">Publications </span></h3>
-
-*First Author
-
-NeurIPS Conference Paper - 2022 <br>
-Clémentine C. J. Dominé**,* Lukas Braun*, 'Exact learning dynamics of deep linear networks with prior knowledge', NeurIPS (2022). (Paper)
-
-FENS Forum - 2022 <br>
-Emmett Thompson*, 'Replay of motor sequences in dorsolateral striatum during offline consolidation are revealed using a unsupervised point process model', Poster in FENS For(2022).(Poster)
-
-***
-
-<h3> <span style="color:#DAA520">Awards</span></h3>
-#### ELISE PhD Mobility Grant - 2022 <br>
-Grant for the duration of the ELISE collaborative project (European Laboratory for Learning and Intelligent Systems)
-
-#### Best Poster Award - 2022 <br>
-Gatsby Tri-center meeting, Israel, Hebrew University', Exact learning dynamics of deep linear networks with prior knowledge' (Poster)
-
-#### The Stellify Award - 2020<br>
-The Stellify Award is the University’s most prestigious undergraduate extracurricular award (Outstanding efforts in Leadership and Volunteering).
-
-#### The Entry Scholarship - 2016<br>
-The Entry Scholarship for the first year of study to students gaining A*A*A* grades at A level awarded by the University of Manchester. (Equivalent to French Baccalaureate “Mention Très Bien” with “Félicitations du jury”, grade : 18.5/20. 1,8 % Students qualified)
 
 ***
 
 <h3> <span style="color:#DAA520">Teaching & Mentoring </span></h3>
 
-#### Teaching Assistant for the Gatsby UCL courses 2021-2022<br>
+
+#### 2022-2023 - In2Research Mentor 
+Mentoring two undergraduate students and hosting eight week research placement.University College London (UCL) 
+
+
+
+#### 2021-2022 - Teaching Assistant for the Gatsby UCL courses 
 University College London (UCL) Lectures:
 <ul>
     <li>Theoretical and Systems Neuroscience Course. (Lectures and tutorials) </li>
     <li>The CAJAL Advanced Neuroscience Training. (Lectures and tutorials) </li>
 </ul>
 
-#### Master Student Supervisor 2021-2022<br>
-Supervision of Computer Science Master student from the University College London. A simplified and detailed implementation of the Tolman Eichenbaum Machine (TEM) and ablation analysis.
+#### 2021-2022 - Master Student Supervisor 
+Supervision of Computer Science Master student from the University College London. A simplified and detailed implementation of the Tolman Eichenbaum Machine (TEM) and ablation analysis (Grade: 78%).
 
-#### Intern Supervisor 2021-2022<br>
+#### 2021-2022 - Summer Undergrad Interns Supervisor 
 Co-supervised 2 summer students on a project on prioritised replay in the student teacher set-up
 
-#### Pass Mentor 2019-2020<br>
+#### 2019-2020 - Pass Mentor
 Tutor for Peer-assisted Study Sessions (PASS), The University of Manchester.<br> Organised and led weekly sessions with student.
+
+
+***
+
+<h3> <span style="color:#DAA520">Awards</span></h3>
+<ul>
+<li> 2023 - Les Houches Travel Grant 
+</li>
+<li> 2022 - ELISE PhD Mobility Grant 
+</li>
+<li> 2022 - Best Poster Award - Gatsby Tri-center meeting, Israel, Hebrew University', Exact learning dynamics of deep linear networks with prior knowledge' (Poster)</li>
+<li>  The Stellify Award - 2020 The Stellify Award is the University’s most prestigious undergraduate extracurricular award (Outstanding efforts in Leadership and Volunteering).
+</li>
+<li>  2016 - The Entry Scholarship - To first year students gaining A*A*A* grades awarded by the University of Manchester. (Equivalent to French Baccalaureate “Mention Très Bien” with “Félicitations du jury”, grade : 18.5/20. 1,8 % Students qualified)
+</ul>
+
+***
+<h3> <span style="color:#DAA520">Other Occupations </span></h3> 
+
+#### Review <br>
+<ul>
+<li> 2023 - Reviewer for ICLR Workshop MLGH </li>
+<li> 2022 - Reviewer for NeurIPS Workshop NeurReps </li>
+</ul>
+
+
+
+#### Comference and Workshop <br>
+<ul>
+<li> 2023 - Cosyne Montreal (Poster)  </li>
+<li> 2023 - Les Houches Worshop school of Physics 'Latest advances on biological and artificial neural network' (Poster) </li>
+<li> 2022 - Neurips New Orleans (Paper)  </li>
+<li> 2022 - Poster presentation at the Gatsby Tri-Center Hebrew Universtiy (Poster)</li>
+<li> 2022 - Cosyne Lisbon  </li>
+<li> 2021 - The SWC Internal Symposium (Poster)</li>
+</ul>
+
+#### Invited Talks <br>
+<ul>
+<li> 2022 - Invited talk Rome Sapienza </li>
+<li> 2022 - Neurips the Woman ignite Social </li>
+</ul>
+
+#### Organiser <br>
+<ul>
+<li> 2022-2023 - Saxe Lab retreat </li>
+<li> 2022-2023 - Summer Bridging Program  </li>
+<li> 2022-2023 - Theoretical Neuroscience Journal Club organiser</li>
+<li> 2022-2023 - NeuroAI Talks organiser</li>
+<li> 2021-2022 - Organiser of Sainsbury Wellcome Centre (SWC) Annual Student Symposium</li>
+</ul>
+
+#### EDI <br>
+
+<ul>
+<li> 2022-2023 - EDI representative Saxe Lab </li>
+<li> 2022-2023 - Mentor at 'les rencontres ELLES actives'</li>  
+<li> 2022-Summer Conference Inclusitivity in Research at UCL Summer Conference</li>  
+<li> 2021-2023 - Athena Swan Committee member at SWC/GCNU</li>
+<li> 2021-2022 - In2Science Research Contact </li>
+<li> 2021-2022 - Gatsby Unit Student representative </li>  
+<li> 2017-2018 - Student representative on UCIL Staff Student Liaison Committee (SSLC)</li>
+</ul>
+
+
+
+#### Volonteering <br>
+<ul>
+<li> 2022 - Half-marathon fundraising for Rape Crisis England & Wales </li>
+<li> 2019 - The Midnight Mission Service Volunteer </li>
+<li> 2019 - Volonteer Association Mondiale pour les Orphelins </li>
+<li> 2018 - Fundraising Volunteer for the Santa Monica Mountain Restoration  </li>
+<li> 2018 - Swimathon fundraising for Cancer Research UK  </li>
+</ul>
 
 ***
 
@@ -144,7 +216,6 @@ CPR / AED / First-Aid Certification Course, Diving level 1, Sailing License.
 Music - Guitar, musical theory, singing, piano, ukulele <br>
 Sports - Rock-climbing, skiing, snowboard, running <br>
 Blog - Art and Sciences (@artlovessciences) <br>
-Volunteering - British Red Cross, Rape Crisis England & Wales, Cancer Research UK, In2Science
 
 ***
 
@@ -152,8 +223,8 @@ Volunteering - British Red Cross, Rape Crisis England & Wales, Cancer Research U
 
 French - Native language <br>
 English - TOEFL: 106/120 (2015) <br>
-German - Silver AATG, Certification level A2/B1 <br>
-Italian - Level A1
+German - Silver AATG, Certification level A2/B1 (2016) <br>
+Italian - Level A2
   
 
 
