@@ -2,16 +2,16 @@
 <html lang="en">
 
   <!-- Head -->
-  <head><meta http-equiv="refresh" content="3; url=http://localhost:4000/" />    <!-- Metadata, OpenGraph and Schema.org -->
+  <head>    <!-- Metadata, OpenGraph and Schema.org -->
     
 
     <!-- Standard metadata -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Page not found | Clémentine  Dominé</title>
+    <title>publications | Clémentine  Dominé</title>
     <meta name="author" content="Clémentine  Dominé" />
-    <meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
+    <meta name="description" content="(*) denotes equal contribution." />
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -32,7 +32,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍊</text></svg>">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="http://localhost:4000/404.html">
+    <link rel="canonical" href="http://localhost:4000/publications/">
     
     <!-- Dark Mode -->
     
@@ -75,8 +75,8 @@
               <li class="nav-item ">
                 <a class="nav-link" href="/CV/">cv</a>
               </li>
-              <li class="nav-item ">
-                <a class="nav-link" href="/publications/">publications</a>
+              <li class="nav-item active">
+                <a class="nav-link" href="/publications/">publications<span class="sr-only">(current)</span></a>
               </li>
 
               <!-- Toogle theme mode -->
@@ -98,12 +98,64 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">Page not found</h1>
-            <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+            <h1 class="post-title">publications</h1>
+            <p class="post-description">(*) denotes equal contribution.</p>
           </header>
 
           <article>
-            <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="http://localhost:4000/">here</a>.</p>
+            <div class="publications">
+
+
+  <h2 class="year">2022</h2>
+  <ol class="bibliography"><li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="teaser" style="justify-self: start; align-self: start; height:150px; width: 150px;"><img class="teaser" id="teaser" src="/assets/img/small_teaser_clem%20Small.jpeg" style="max-height:100%; max-width:100%;"></div>
+
+        <!-- <div class="col-sm-2 abbr"><abbr class="badge">NeurIPS</abbr></div> -->
+        
+        
+        <!-- Entry bib key -->
+        <div id="domine2022" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Exact learning dynamics of deep linear networks with prior knowledge</div>
+          <!-- Author -->
+          <div class="author">Braun, Lukas (*), Dominé, Clémentine Carla Juliette (*), Fitzgerald, James E, and Saxe, Andrew M
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Advances in Neural Information Processing Systems (NeurIPS)</em> 2022
+          </div>
+         
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a href="https://openreview.net/forum?id=lJx2vng-KiC" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">HTML</a>
+            <a href="/assets/pdf/exact_learning_dynamic_paper.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Learning in deep neural networks is known to depend critically on the knowledge embedded in the initial network weights. However, few theoretical results have precisely linked prior knowledge to learning dynamics. Here we derive exact solutions to the dynamics of learning with rich prior knowledge in deep linear networks by generalising Fukumizu’s matrix Riccati solution \citepfukumizu1998effect. We obtain explicit expressions for the evolving network function, hidden representational similarity, and neural tangent kernel over training for a broad class of initialisations and tasks. The expressions reveal a class of task-independent initialisations that radically alter learning dynamics from slow non-linear dynamics to fast exponential trajectories while converging to a global optimum with identical representational similarity, dissociating learning trajectories from the structure of initial internal representations. We characterise how network weights dynamically align with task structure, rigorously justifying why previous solutions successfully described learning from small initial weights without incorporating their fine-scale structure. Finally, we discuss the implications of these findings for continual learning, reversal learning and learning of structured knowledge. Taken together, our results provide a mathematical toolkit for understanding the impact of prior knowledge on deep learning.</p>
+          </div>
+        </div>
+      </div>
+      <!-- <style>
+      .teaser {
+          overflow: visible;
+          width: 300px;
+          height: 200px;
+          object-fit: none;
+          object-position: left;
+      }
+      
+      </style> -->
+</li></ol>
+
+
+</div>
 
           </article>
 
