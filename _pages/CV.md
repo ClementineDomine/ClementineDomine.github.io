@@ -138,8 +138,9 @@ Tutor for Peer-assisted Study Sessions (PASS), The University of Manchester.<br>
 <li> 2022 - Best Poster Award - Gatsby Tri-center meeting, Israel, Hebrew University', Exact learning dynamics of deep linear networks with prior knowledge' (Poster)</li>
 <li>  The Stellify Award - 2020 The Stellify Award is the University’s most prestigious undergraduate extracurricular award (Outstanding efforts in Leadership and Volunteering).
 </li>
-<li>  2016 - The Entry Scholarship - To first year students gaining A*A*A* grades awarded by the University of Manchester. (Equivalent to French Baccalaureate “Mention Très Bien” with “Félicitations du jury”, grade : 18.5/20. 1,8 % Students qualified)
+<li>  2016 - The Entry Scholarship - To first year students gaining A*A*A* grades awarded by the University of Manchester. (Equivalent to French Baccalaureate “Mention Très Bien” with “Félicitations du jury”, grade : 18.5/20. 1,8 % Students qualified)</li>
 </ul>
+
 
 ***
 
@@ -147,6 +148,7 @@ Tutor for Peer-assisted Study Sessions (PASS), The University of Manchester.<br>
 
 #### Review <br>
 <ul>
+<li> 2023 - Deep Learning Indaba </li>
 <li> 2023 - Reviewer for ICLR Workshop MLGH </li>
 <li> 2022 - Reviewer for NeurIPS Workshop NeurReps </li>
 </ul>
