@@ -105,7 +105,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 <h3> <span style="color:#DAA520">Teaching & Mentoring </span></h3>
 
 
-#### 2022-2023 - In2Research Mentor 
+#### 2022-2023 - In2Research Mentor/Host
 Mentoring two undergraduate students and hosting eight week research placement.University College London (UCL) 
 
 

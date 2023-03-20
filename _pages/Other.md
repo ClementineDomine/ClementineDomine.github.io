@@ -34,9 +34,6 @@ nav: true
 *****
 <h3> <span style="color:#DAA520">Art Loves Sciences</span></h3>
 
-#### Art Loves Sciences <br>
-
-
  <a href="https://artlovessciences.github.io">Blog </a>  <br>
  <a href="https://www.instagram.com/art_loves_sciences/">Instagram </a>    <br>
  <a href="https://twitter.com/ArtlovesSci">Twitter </a>  
