@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-01-19 08:59:00-0400
+date: 2023-04-11 08:59:00-0400
 inline: true
 ---
 
-<b>Accepted Talk Cosyne:</b> Emmett Thompson* et al, 'Replay of motor sequences in dorsolateral striatum during offline consolidation are revealed using a unsupervised point process model', <br>(Top 3%) 🎉 🗣️ 🍊
+I've been selected to be a participant in the <b> 2023 Princeton ML Theory Summer School</b>! 🎉 🍊
