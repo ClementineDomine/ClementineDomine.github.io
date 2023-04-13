@@ -53,16 +53,43 @@ I started this project on Instagram (@artlovesciences) a 4 years ago.
 
 
 ***
-<h3> <span style="color:#DAA520">Other cool links</span></h3> 
+<h3> <span style="color:#DAA520">Resources </span></h3> 
+
+#### Machine Learning <br>
+
+<ul>
+<li> Arthur Gretton’s lecture  <a href="http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html"> lecture </a> notes on RKHS theory </li>
+<li> <a href="http://www2.imm.dtu.dk/pubdb/edoc/imm3274.pdf"> Matrix Cookbook </a> </li>
+<li> <a href="https://geometricdeeplearning.com"> Geometric Deep learning </a> </li>
+<li> Gatsby course <a href="http://www.gatsby.ucl.ac.uk/teaching/courses/index.html"> lectures </a> </li>
+</ul>
+
+
+#### Theoretical Neurosciences <br>
+<ul>
+<li> Gatsby/SWC Systems and Theoretical Neuroscience course <a href="https://www.gatsby.ucl.ac.uk/teaching/courses/sntn/sntn-2018/lectures.html"> lectures </a> </li>
+<li> Gatsby Theoretical Neuroscience  <a  href= "https://www.williamdorrell.co.uk/pdfs/TN_Notes.pdf"> </a>  lectures  </li>
+</ul>
+
+
+#### Inclusivity <br>
+<ul>
+<li> <a href="https://diversityinacademia.mystrikingly.com" >  Collection of resources on diversity in academia lectures </a> </li>
+<li> <a href="https://biaswatchneuro.com">Bias watch Neuro </a>  </li>
+<li> <a href="https://anneslist.net"> Anne’s List </a>  </li>
+<li> <a href="https://anneslist.net"> Concrete Steps for Recruiting, Supporting, and Advancing Underrepresented Minoritized Scientists</a>  </li>
+</ul>
+
+
 
 #### Cool scientists you should check-out <br>
 
 <ul>
-<li> Will Dorell  </li>
-<li> Rodrigo Carasco Davis </li>
-<li> Kira Düsterwald </li>
-<li> Tom Geroge  </li>
-<li> Erin Grant </li>
+<li> <a href="https://www.williamdorrell.co.uk">Will Dorell  </a>    </li>
+<li> <a href="https://scholar.google.cl/citations?user=PLBqVGoAAAAJ&hl=en">  Rodrigo Carasco Davis </a>  </li>
+<li>  <a href=" https://scholar.google.com/citations?user=U7NxV-MAAAAJ&hl=en"> Kira Düsterwald </a> </li>
+<li>  <a href="https://github.com/TomGeorge1234">  Tom Geroge </a>   </li>
+<li>  <a href="https://eringrant.github.io"> Erin Grant </a>  </li>
 </ul>
 
 
