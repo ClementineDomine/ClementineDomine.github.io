@@ -68,7 +68,7 @@ I started this project on Instagram (@artlovesciences) a 4 years ago.
 #### Theoretical Neurosciences <br>
 <ul>
 <li> Gatsby/SWC Systems and Theoretical Neuroscience course <a href="https://www.gatsby.ucl.ac.uk/teaching/courses/sntn/sntn-2018/lectures.html"> lectures </a> </li>
-<li> Gatsby Theoretical Neuroscience  <a  href= "https://www.williamdorrell.co.uk/pdfs/TN_Notes.pdf"> </a>  lectures  </li>
+<li> Gatsby Theoretical Neuroscience  <a  href= "https://www.williamdorrell.co.uk/pdfs/TN_Notes.pdf">lectures  </a>   </li>
 </ul>
 
 
@@ -77,7 +77,7 @@ I started this project on Instagram (@artlovesciences) a 4 years ago.
 <li> <a href="https://diversityinacademia.mystrikingly.com" >  Collection of resources on diversity in academia lectures </a> </li>
 <li> <a href="https://biaswatchneuro.com">Bias watch Neuro </a>  </li>
 <li> <a href="https://anneslist.net"> Anne’s List </a>  </li>
-<li> <a href="https://anneslist.net"> Concrete Steps for Recruiting, Supporting, and Advancing Underrepresented Minoritized Scientists</a>  </li>
+<li> <a href="https://docs.google.com/document/d/1Ic6bil2AvrQmPFUcUyxcw_FumofKkUo3VLsU7qG0cTk/edit"> Concrete Steps for Recruiting, Supporting, and Advancing Underrepresented Minoritized Scientists</a>  </li>
 </ul>
 
 
