@@ -13,10 +13,13 @@ nav: true
 
 <ul>
 <li> <a href="https://www.youtube.com/watch?v=qIuFOMr0q4A&feature=youtu.be">Podcast </a>   </li>
+<li> <a href="https://podcasters.spotify.com/pod/show/neuroverse9/episodes/49--Neuro-Inspired-AI-with-Clmentine-Domin-e23rm7f">Neuro-Inspired AI with Clémentine Dominé </a>   </li>
 <li> <a href="https://www.sainsburywellcome.org/web/qa/embracing-intersection-between-neuroscience-physics-and-art "> SWC Interview : Embracing intersection between neuroscience physics and art </a>  </li>
 <li> <a href="https://ellis.eu/news/elise-mobility-program-for-phd-students-and-postdocs-two-participants-share-their-experiences">  ELISE Mobility Program for PhD students and postdocs: Two participants share their experiences </a>  </li>
 <li> <a href=" https://www.youtube.com/watch?v=4QWHw1gLgfY"> Andrew Saxe, PhD, 2023 Blavatnik Awards  </a> </li>
 </ul>
+
+
 
 ***
 
