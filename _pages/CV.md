@@ -156,7 +156,7 @@ Tutor for Peer-assisted Study Sessions (PASS), The University of Manchester.<br>
 
 #### Comference and Workshop <br>
 <ul>
-<li> 2023 - Faculty of Life Sciences Festival of Research (Poster)  </li>    
+<li> 2023 - UCL Faculty of Life Sciences Festival of Research (Poster)  </li>    
 <li> 2023 - Cosyne Montreal (Poster)  </li>
 <li> 2023 - Les Houches Worshop school of Physics 'Latest advances on biological and artificial neural network' (Poster) </li>
 <li> 2022 - Neurips New Orleans (Paper)  </li>
