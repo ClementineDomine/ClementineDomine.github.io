@@ -99,37 +99,35 @@ Study of the E-kick procedure optimization using MATLAB PIC code simulation for 
 The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at studying fundamental symmetries between matter and anti-matter. I developed my computing and electronic skills by working on a project around a “push-pull” Mosfet circuit for the security valve of the apparatus. I developed computing and electronic skills by working on the electronic circuit of the security valve for the cryostat for the future Alpha-G experiment measuring the gravity constant with anti-matter. Day-to-day running of the experiment. (Record of the most anti-hydrogen caught) Assisted Summer Student lectures. Certified guide inside the AD facility.
   
 
+***
+
+<h3> <span style="color:#DAA520">Teaching</span></h3>
+<ul>
+    <li> 2022-2023 - Lecturer Gatsby UCL courses: Bridging Program (Lectures and tutorials) </li>
+    <li> 2021-2022 - Teaching Assistant for Gatsby UCL courses: Theoretical and Systems Neuroscience Course. (Lectures and tutorials) </li>
+    <li> 2021-2022 - Teaching Assistant for the Gatsby UCL courses: The CAJAL Advanced Neuroscience Training. (Lectures and tutorials) </li>
+</ul>
 
 ***
 
-<h3> <span style="color:#DAA520">Teaching & Mentoring </span></h3>
 
-
-#### 2022-2023 - In2Research Mentor/Host
-Mentoring two undergraduate students and hosting eight week research placement.University College London (UCL) 
-
-
-#### 2021-2022 - Teaching Assistant for the Gatsby UCL courses 
-University College London (UCL) Lectures:
+<h3> <span style="color:#DAA520">Supervising/Mentoring</span></h3>
 <ul>
-    <li>Theoretical and Systems Neuroscience Course. (Lectures and tutorials) </li>
-    <li>The CAJAL Advanced Neuroscience Training. (Lectures and tutorials) </li>
+<li> 2022-2023 - Nicolas Anguita - Summer Undergrad Interns Supervisor: Deep linear networks theory </li>
+<li> 2022-2023 - Kevin Ferrao - In2Research Host: 8 weeks research placement working on Neuralplayground </li>
+<li> 2022-2023 - Kendall Feeny and  Nicola Jadesola - In2Research Mentor </li>
+<li> 2021-2022 - Ariel Flint Ashery and Anton Fedotov - Summer Undergrad Interns Supervisor: on prioritised replay in the student teacher set-up. </li>
+<li> 2021-2022 - Luke Hollingsworth - Supervision of Computer Science Master student from the University College London. A simplified and detailed implementation of the Tolman Eichenbaum Machine (TEM) and ablation analysis (Grade: 78%).</li>
+<li> 2019-2020 - Pass Mentor Tutor for Peer-assisted Study Sessions (PASS), The University of Manchester.<br> Organised and led weekly sessions with student. </li>
+    
 </ul>
-
-#### 2021-2022 - Master Student Supervisor 
-Supervision of Computer Science Master student from the University College London. A simplified and detailed implementation of the Tolman Eichenbaum Machine (TEM) and ablation analysis (Grade: 78%).
-
-#### 2021-2022 - Summer Undergrad Interns Supervisor 
-Co-supervised 2 summer students on a project on prioritised replay in the student teacher set-up
-
-#### 2019-2020 - Pass Mentor
-Tutor for Peer-assisted Study Sessions (PASS), The University of Manchester.<br> Organised and led weekly sessions with student.
 
 
 ***
 
 <h3> <span style="color:#DAA520">Awards</span></h3>
 <ul>
+<li> 2023 - Princeton ML Theory Summer School Travel Grant </li>
 <li> 2023 - Les Houches Travel Grant 
 </li>
 <li> 2022 - ELISE PhD Mobility Grant 
@@ -137,6 +135,7 @@ Tutor for Peer-assisted Study Sessions (PASS), The University of Manchester.<br>
 <li> 2022 - Best Poster Award - Gatsby Tri-center meeting, Israel, Hebrew University', Exact learning dynamics of deep linear networks with prior knowledge' (Poster)</li>
 <li>  The Stellify Award - 2020 The Stellify Award is the University’s most prestigious undergraduate extracurricular award (Outstanding efforts in Leadership and Volunteering).
 </li>
+  <li>    2018-2019 UCLA Dean's Honors List </li>
 <li>  2016 - The Entry Scholarship - To first year students gaining A*A*A* grades awarded by the University of Manchester. (Equivalent to French Baccalaureate “Mention Très Bien” with “Félicitations du jury”, grade : 18.5/20. 1,8 % Students qualified)</li>
 </ul>
 
@@ -147,18 +146,20 @@ Tutor for Peer-assisted Study Sessions (PASS), The University of Manchester.<br>
 
 #### Review <br>
 <ul>
+<li> 2023 - NeurIPS </li>
+<li> 2023 - NeurIPS </li>
 <li> 2023 - Deep Learning Indaba </li>
 <li> 2023 - Reviewer for ICLR Workshop MLGH </li>
 <li> 2022 - Reviewer for NeurIPS Workshop NeurReps </li>
 </ul>
 
 
-
 #### Comference and Workshop <br>
 <ul>
+<li> 2023 - Princeton ML Theory Summer School </li> 
 <li> 2023 - UCL Faculty of Life Sciences Festival of Research (Poster)  </li>    
 <li> 2023 - Cosyne Montreal (Poster)  </li>
-<li> 2023 - Les Houches Worshop school of Physics 'Latest advances on biological and artificial neural network' (Poster) </li>
+<li> 2023 - Les Houches Workshop school of Physics 'Latest advances on biological and artificial neural network' (Poster) </li>
 <li> 2022 - Neurips New Orleans (Paper)  </li>
 <li> 2022 - Poster presentation at the Gatsby Tri-Center Hebrew Universtiy (Poster)</li>
 <li> 2022 - Cosyne Lisbon  </li>
@@ -167,12 +168,15 @@ Tutor for Peer-assisted Study Sessions (PASS), The University of Manchester.<br>
 
 #### Invited Talks <br>
 <ul>
+<li> 2023 - Invited talk Zuckerman Institute Columbia </li>    
+<li> 2023 - Invited talk NeuroAI UCL  </li>
 <li> 2022 - Invited talk Rome Sapienza </li>
 <li> 2022 - Neurips the Woman ignite Social </li>
 </ul>
 
 #### Organiser <br>
 <ul>
+<li> 2022-2023 - Applications Analytical Connectionism summer school 2023 </li>
 <li> 2022-2023 - Saxe Lab retreat </li>
 <li> 2022-2023 - Summer Bridging Program  </li>
 <li> 2022-2023 - Theoretical Neuroscience Journal Club organiser</li>
@@ -227,7 +231,7 @@ Blog - Art and Sciences (@artlovessciences) <br>
 French - Native language <br>
 English - TOEFL: 106/120 (2015) <br>
 German - Silver AATG, Certification level A2/B1 (2016) <br>
-Italian - Level A2
+Italian - Level A2+
   
 
 
