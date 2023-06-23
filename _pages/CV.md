@@ -8,7 +8,6 @@ nav: true
 ## Computational Neurosicence PhD Student
 
 
-
 ***
 
 <h3> <span style="color:#DAA520">Publications and Posters </span></h3>
@@ -29,7 +28,6 @@ Clémentine C. J. Dominé**,* Lukas Braun*, 'Exact learning dynamics of deep lin
 Emmett Thompson*, 'Replay of motor sequences in dorsolateral striatum during offline consolidation are revealed using a unsupervised point process model', Poster in FENS For(2022).(Poster)
 
 ***
-
 
 <h3> <span style="color:#DAA520">Education </span></h3>
 
@@ -110,7 +108,6 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 ***
 
-
 <h3> <span style="color:#DAA520">Supervising/Mentoring</span></h3>
 <ul>
 <li> 2022-2023 - Nicolas Anguita - Summer Undergrad Interns Supervisor: Deep linear networks theory </li>
@@ -139,14 +136,12 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 <li>  2016 - The Entry Scholarship - To first year students gaining A*A*A* grades awarded by the University of Manchester. (Equivalent to French Baccalaureate “Mention Très Bien” with “Félicitations du jury”, grade : 18.5/20. 1,8 % Students qualified)</li>
 </ul>
 
-
 ***
 
 <h3> <span style="color:#DAA520">Other Occupations </span></h3> 
 
 #### Review <br>
 <ul>
-<li> 2023 - NeurIPS </li>
 <li> 2023 - NeurIPS </li>
 <li> 2023 - Deep Learning Indaba </li>
 <li> 2023 - Reviewer for ICLR Workshop MLGH </li>
