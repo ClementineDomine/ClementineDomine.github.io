@@ -9,7 +9,6 @@ nav: true
 
 
 ***
-
 <h3> <span style="color:#DAA520">Publications and Posters </span></h3>
 
 *First Author
@@ -124,8 +123,9 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 <h3> <span style="color:#DAA520">Awards</span></h3>
 <ul>
-<li> 2023 - Princeton ML Theory Summer School Travel Grant </li>
-<li> 2023 - Les Houches Travel Grant 
+<li> 2023 - Ponte Costa Lab NeuroAi workshop travel grant </li>
+<li> 2023 - Princeton ML Theory Summer School travel grant </li>
+<li> 2023 - Les Houches travel grant 
 </li>
 <li> 2022 - ELISE PhD Mobility Grant 
 </li>
@@ -151,6 +151,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 #### Comference and Workshop <br>
 <ul>
+<li> 2023 - Ponte Costa Lab NeuroAi workshop </li>
 <li> 2023 - Princeton ML Theory Summer School </li> 
 <li> 2023 - UCL Faculty of Life Sciences Festival of Research (Poster)  </li>    
 <li> 2023 - Cosyne Montreal (Poster)  </li>
@@ -163,7 +164,8 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 #### Invited Talks <br>
 <ul>
-<li> 2023 - Invited talk Zuckerman Institute Columbia </li>    
+ 
+<li> 2023 - Invited talk- Theory center at the Zuckerman Institute Columbia </li>    
 <li> 2023 - Invited talk NeuroAI UCL  </li>
 <li> 2022 - Invited talk Rome Sapienza </li>
 <li> 2022 - Neurips the Woman ignite Social </li>
@@ -175,7 +177,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 <li> 2022-2023 - Saxe Lab retreat </li>
 <li> 2022-2023 - Summer Bridging Program  </li>
 <li> 2022-2023 - Theoretical Neuroscience Journal Club organiser</li>
-<li> 2022-2023 - NeuroAI Talks organiser</li>
+<li> 2022-2023 - NeuroAI organiser(Talks, Deeplabcut hackathon, Annual Event)</li>
 <li> 2021-2022 - Organiser of Sainsbury Wellcome Centre (SWC) Annual Student Symposium</li>
 </ul>
 
