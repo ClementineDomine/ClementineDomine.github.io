@@ -14,11 +14,11 @@ nav: true
 *First Author
 
 2023 - Cognitive Computational Neuroscience (CCN) Talk  (Top 5%) <br>
-Clémentine C. J. Dominé*, Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' 
+Clémentine C. J. Dominé**,* Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' 
 
 
 2023 - Cosyne Poster   <br>
-Clémentine C. J. Dominé*, Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' 
+Clémentine C. J. Dominé**, *Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' 
 
 2023 - Cosyne Talk  (Top 3%) <br>
 Emmett Thompson*, 'Replay of motor sequences in dorsolateral striatum during offline consolidation are revealed using a unsupervised point process model', Poster in FENS For(2022).(Poster)
