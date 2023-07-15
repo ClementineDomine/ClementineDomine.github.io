@@ -13,6 +13,10 @@ nav: true
 
 *First Author
 
+2023 - Cognitive Computational Neuroscience (CCN) Talk  (Top 5%) <br>
+Clémentine C. J. Dominé*, Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' 
+
+
 2023 - Cosyne Poster   <br>
 Clémentine C. J. Dominé*, Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' 
 
@@ -173,9 +177,10 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 #### Organiser <br>
 <ul>
+<li> 2022-2023 - NeurIPS Workshop: UniReps: Unifying Representations in Neural Models </li>
 <li> 2022-2023 - Applications Analytical Connectionism summer school 2023 </li>
-<li> 2022-2023 - Saxe Lab retreat </li>
 <li> 2022-2023 - Summer Bridging Program  </li>
+<li> 2022-2023 - Saxe Lab retreat </li>
 <li> 2022-2023 - Theoretical Neuroscience Journal Club organiser</li>
 <li> 2022-2023 - NeuroAI organiser(Talks, Deeplabcut hackathon, Annual Event)</li>
 <li> 2021-2022 - Organiser of Sainsbury Wellcome Centre (SWC) Annual Student Symposium</li>
@@ -192,7 +197,6 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 <li> 2021-2022 - Gatsby Unit Student representative </li>  
 <li> 2017-2018 - Student representative on UCIL Staff Student Liaison Committee (SSLC)</li>
 </ul>
-
 
 
 #### Volonteering <br>
