@@ -16,6 +16,9 @@ nav: true
 2023 - Cognitive Computational Neuroscience (CCN) Talk  (Top 5%) <br>
 Clémentine C. J. Dominé**,* Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' 
 
+2023 - Pre-Print <br>
+Clémentine C. J. Dominé**,* Marco Pegoraro* et al, 'Geometric Epitope and Paratope Prediction' 
+
 
 2023 - Cosyne Poster   <br>
 Clémentine C. J. Dominé**,* Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' 
