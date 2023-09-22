@@ -130,17 +130,20 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 <h3> <span style="color:#DAA520">Awards</span></h3>
 <ul>
-<li> 2023 - Ponte Costa Lab NeuroAi workshop travel grant </li>
-<li> 2023 - Princeton ML Theory Summer School travel grant </li>
-<li> 2023 - Les Houches travel grant 
+<li> 2023 - In2research Mentor of the Year award </li>
+<li> 2023 - Google Europe Students with Disabilities Scholarship (7000£) </li>
+<li> 2023 - Grants for PhD students and postdocs in quantitative fields (1000£) </li>
+<li> 2023 - Ponte Costa Lab NeuroAi workshop travel grant (100£) </li>
+<li> 2023 - Princeton ML Theory Summer School travel grant (500$) </li>
+<li> 2023 - Les Houches travel grant (500$)
 </li>
-<li> 2022 - ELISE PhD Mobility Grant 
+<li> 2022 - ELISE PhD Mobility Grant (2500$)
 </li>
 <li> 2022 - Best Poster Award - Gatsby Tri-center meeting, Israel, Hebrew University', Exact learning dynamics of deep linear networks with prior knowledge' (Poster)</li>
 <li>  The Stellify Award - 2020 The Stellify Award is the University’s most prestigious undergraduate extracurricular award (Outstanding efforts in Leadership and Volunteering).
 </li>
   <li>    2018-2019 UCLA Dean's Honors List </li>
-<li>  2016 - The Entry Scholarship - To first year students gaining A*A*A* grades awarded by the University of Manchester. (Equivalent to French Baccalaureate “Mention Très Bien” with “Félicitations du jury”, grade : 18.5/20. 1,8 % Students qualified)</li>
+<li>  2016 - The Entry Scholarship - To first year students gaining A*A*A* grades awarded by the University of Manchester. (Equivalent to French Baccalaureate “Mention Très Bien” with “Félicitations du jury”, grade : 18.5/20. 1,8 % Students qualified) (1000EUR)</li>
 </ul>
 
 ***
@@ -158,6 +161,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 #### Comference and Workshop <br>
 <ul>
+<li> 2023 - CCN Oxford </li>
 <li> 2023 - Ponte Costa Lab NeuroAi workshop </li>
 <li> 2023 - Princeton ML Theory Summer School </li> 
 <li> 2023 - UCL Faculty of Life Sciences Festival of Research (Poster)  </li>    
@@ -171,9 +175,9 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 #### Invited Talks <br>
 <ul>
- 
+<li> 2023 - Accepted Talk: Clémentine C. J. Dominé*, Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' (Top 3%) </li>
 <li> 2023 - Invited talk- Theory center at the Zuckerman Institute Columbia </li>    
-<li> 2023 - Invited talk NeuroAI UCL  </li>
+<li> 2023 - Invited talk NeuroAI UCL </li>
 <li> 2022 - Invited talk Rome Sapienza </li>
 <li> 2022 - Neurips the Woman ignite Social </li>
 </ul>
