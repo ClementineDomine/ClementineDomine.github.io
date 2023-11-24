@@ -116,7 +116,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 <h3> <span style="color:#DAA520">Supervising/Mentoring</span></h3>
 <ul>
-<li> 2023-2024 - Nicolas Anguita - Summer Undergrad Interns Supervisor: Deep linear networks theory </li>
+<li> 2023-2024 - Nicolas Anguita - Masters Thesis: Deep linear networks theory </li>
 <li> 2023-2024 - Sarveshwari Singh - WIML Mentor </li>
 <li> 2022-2023 - Kevin Ferrao - In2Research Host: 8 weeks research placement working on Neuralplayground </li>
 <li> 2022-2023 - Kendall Feeny and  Nicola Jadesola - In2Research Mentor </li>
@@ -129,7 +129,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 ***
 
-<h3> <span style="color:#DAA520">Awards -Grants </span></h3>
+<h3> <span style="color:#DAA520">Awards - Grants </span></h3>
 <ul>
 <li> 2023 - Top Reviewer for NeurIPS 2023 and to secure a complimentary registration (500$) </li>
 <li> 2023 - In2research Mentor of the Year award </li>
@@ -139,7 +139,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 <li> 2023 - Princeton ML Theory Summer School travel grant (500$) </li>
 <li> 2023 - Les Houches travel grant (500$)
 </li>
-<li> 2022 - DocSkill Grant - CLIE Evening Courses Class List (£390)
+<li> 2022 - DocSkill grant - CLIE Evening Courses Class List (£390)
 </li>
 <li> 2022 - ELISE PhD Mobility Grant (2500$)
 </li>
