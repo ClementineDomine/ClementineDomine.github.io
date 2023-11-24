@@ -1,4 +1,4 @@
----
+----
 layout: CV
 permalink: /CV/
 title: cv
@@ -12,20 +12,20 @@ nav: true
 <h3> <span style="color:#DAA520">Publications and Posters </span></h3>
 
 *First Author
+2023 - NeuReps 2023: Symmetry and Geometry in Neural Representations Workshop, NeurIPS 2023 <br>
+Clémentine C. J. Dominé**,* Marco Pegoraro* et al, 'Geometric Epitope and Paratope Prediction' 
+
+2023 - Learning on Graphs Log Comference <br>
+Clémentine C. J. Dominé**,* Marco Pegoraro* et al, 'Geometric Epitope and Paratope Prediction' 
 
 2023 - Cognitive Computational Neuroscience (CCN) Talk  (Top 5%) <br>
 Clémentine C. J. Dominé**,* Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' 
-
-2023 - Pre-Print <br>
-Clémentine C. J. Dominé**,* Marco Pegoraro* et al, 'Geometric Epitope and Paratope Prediction' 
-
 
 2023 - Cosyne Poster   <br>
 Clémentine C. J. Dominé**,* Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' 
 
 2023 - Cosyne Talk  (Top 3%) <br>
 Emmett Thompson*, 'Replay of motor sequences in dorsolateral striatum during offline consolidation are revealed using a unsupervised point process model', Poster in FENS For(2022).(Poster)
-
 
 2022 - NeurIPS Conference Paper  <br>
 Clémentine C. J. Dominé**,* Lukas Braun*, 'Exact learning dynamics of deep linear networks with prior knowledge', NeurIPS (2022). (Paper)
@@ -116,7 +116,8 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 <h3> <span style="color:#DAA520">Supervising/Mentoring</span></h3>
 <ul>
-<li> 2022-2023 - Nicolas Anguita - Summer Undergrad Interns Supervisor: Deep linear networks theory </li>
+<li> 2023-2024 - Nicolas Anguita - Summer Undergrad Interns Supervisor: Deep linear networks theory </li>
+<li> 2023-2024 - Sarveshwari Singh - WIML Mentor </li>
 <li> 2022-2023 - Kevin Ferrao - In2Research Host: 8 weeks research placement working on Neuralplayground </li>
 <li> 2022-2023 - Kendall Feeny and  Nicola Jadesola - In2Research Mentor </li>
 <li> 2021-2022 - Ariel Flint Ashery and Anton Fedotov - Summer Undergrad Interns Supervisor: on prioritised replay in the student teacher set-up. </li>
@@ -128,23 +129,28 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 ***
 
-<h3> <span style="color:#DAA520">Awards</span></h3>
+<h3> <span style="color:#DAA520">Awards -Grants </span></h3>
 <ul>
+<li> 2023 - Top Reviewer for NeurIPS 2023 and to secure a complimentary registration (500$) </li>
 <li> 2023 - In2research Mentor of the Year award </li>
-<li> 2023 - Google Europe Students with Disabilities Scholarship (7000£) </li>
+<li> 2023 - Google Europe Students with Disabilities Scholarship.(7000£) </li>
 <li> 2023 - Grants for PhD students and postdocs in quantitative fields (1000£) </li>
 <li> 2023 - Ponte Costa Lab NeuroAi workshop travel grant (100£) </li>
 <li> 2023 - Princeton ML Theory Summer School travel grant (500$) </li>
 <li> 2023 - Les Houches travel grant (500$)
 </li>
+<li> 2022 - DocSkill Grant - CLIE Evening Courses Class List (£390)
+</li>
 <li> 2022 - ELISE PhD Mobility Grant (2500$)
 </li>
 <li> 2022 - Best Poster Award - Gatsby Tri-center meeting, Israel, Hebrew University', Exact learning dynamics of deep linear networks with prior knowledge' (Poster)</li>
-<li>  The Stellify Award - 2020 The Stellify Award is the University’s most prestigious undergraduate extracurricular award (Outstanding efforts in Leadership and Volunteering).
+<li> 2020 - The Stellify Award is the University’s most prestigious undergraduate extracurricular award (Outstanding efforts in Leadership and Volunteering).
 </li>
-  <li>    2018-2019 UCLA Dean's Honors List </li>
-<li>  2016 - The Entry Scholarship - To first year students gaining A*A*A* grades awarded by the University of Manchester. (Equivalent to French Baccalaureate “Mention Très Bien” with “Félicitations du jury”, grade : 18.5/20. 1,8 % Students qualified) (1000EUR)</li>
+<li> 2018-2019 UCLA Dean's Honors List </li>
+<li> 2019 - The Entry Scholarship - students gaining A*A*A* grades awarded by the UoM.(1000£) </li>
+<li> 2019 - Bourse au mérite Haute-Savoie for French Baccalaureate “Mention Très Bien” with “Félicitations du jury”, grade : 18.5/20. 1,8 \% Students qualified)(500€)</li>
 </ul>
+
 
 ***
 
@@ -152,7 +158,8 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 #### Review <br>
 <ul>
-<li> 2023 - NeurIPS </li>
+<li> 2024 - COSYNE </li>
+<li> 2023 - NeurIPS (Top Reviewer)  </li>
 <li> 2023 - Deep Learning Indaba </li>
 <li> 2023 - Reviewer for ICLR Workshop MLGH </li>
 <li> 2022 - Reviewer for NeurIPS Workshop NeurReps </li>
@@ -161,31 +168,33 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 #### Comference and Workshop <br>
 <ul>
-<li> 2023 - CCN Oxford </li>
-<li> 2023 - Ponte Costa Lab NeuroAi workshop </li>
-<li> 2023 - Princeton ML Theory Summer School </li> 
-<li> 2023 - UCL Faculty of Life Sciences Festival of Research (Poster)  </li>    
-<li> 2023 - Cosyne Montreal (Poster)  </li>
-<li> 2023 - Les Houches Workshop school of Physics 'Latest advances on biological and artificial neural network' (Poster) </li>
-<li> 2022 - Neurips New Orleans (Paper)  </li>
-<li> 2022 - Poster presentation at the Gatsby Tri-Center Hebrew Universtiy (Poster)</li>
-<li> 2022 - Cosyne Lisbon  </li>
-<li> 2021 - The SWC Internal Symposium (Poster)</li>
+<li> 2023 - Neurips, New Orleans (USA)</li> 
+<li> 2023 - The KITP Program Deep Learning from the Perspective of Physics and Neuroscience, Santa Barbara (USA)</li>
+<li> 2023 - CCN (Talk), Oxford (UK)</li>
+<li> 2023 - Princeton ML Theory Summer School (Poster), Princeton (USA)</li> 
+<li> 2023 - UCL Faculty of Life Sciences Festival of Research (Poster), London (UK)</li>    
+<li> 2023 - COSYNE (Poster), Montreal (CA)</li>
+<li> 2023 - Les Houches Workshop school of Physics 'Latest advances on biological and artificial neural network'(Poster), Les Houches (FR)</li>
+<li> 2022 - Neurips (Paper), New Orleans (USA)</li>
+<li> 2022 - Poster presentation at the Gatsby Tri-Center Hebrew Universtiy (Poster), Jerusalem (Israel)</li>
+<li> 2022 - COSYNE, Lisbon (Portugal)</li>
+<li> 2021 - The SWC Internal Symposium (Poster), London (UK)</li>
 </ul>
 
 #### Invited Talks <br>
 <ul>
-<li> 2023 - Accepted Talk: Clémentine C. J. Dominé*, Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' (Top 3%) </li>
-<li> 2023 - Invited talk- Theory center at the Zuckerman Institute Columbia </li>    
-<li> 2023 - Invited talk NeuroAI UCL </li>
-<li> 2022 - Invited talk Rome Sapienza </li>
-<li> 2022 - Neurips the Woman ignite Social </li>
+<li> 2023 - Invited talk - Ponte Costa Lab NeuroAi workshop </li>
+<li> <a href="https://www.youtube.com/watch?v=vxcWo-YVyGE"> 2023 - Accepted Talk: Clémentine C. J. Dominé*, Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' (Top 3%)  </a>   </li>
+<li> 2023 - Invited talk - Theory center at the Zuckerman Institute Columbia </li>    
+<li> 2023 - Invited talk - NeuroAI UCL </li>
+<li> 2022 - Invited talk - Rome Sapienza </li>
+<li> 2022 - Invited talk - Neurips the Woman Ignite Social </li>
 </ul>
 
 #### Organiser <br>
 <ul>
 <li> 2022-2023 - NeurIPS Workshop: UniReps: Unifying Representations in Neural Models </li>
-<li> 2022-2023 - Applications Analytical Connectionism summer school 2023 </li>
+<li> 2022-2023 - Applications Analytical Connectionism Summer School 2023 </li>
 <li> 2022-2023 - Summer Bridging Program  </li>
 <li> 2022-2023 - Saxe Lab retreat </li>
 <li> 2022-2023 - Theoretical Neuroscience Journal Club organiser</li>
@@ -196,10 +205,13 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 #### EDI <br>
 
 <ul>
+
+<li> 2023-2024 - <a href="https://drive.google.com/file/d/1DBqWaJWJaR1wE3x1N700Phl-DKhoMpao/view?usp=sharing"> Did this really happen (DTRH)' campaign in UCL And Rome Sapienza  </a>   </li>
+<li> 2023-2024 - Sarveshwari Singh - WIML Mentor </li>
 <li> 2022-2023 - EDI representative Saxe Lab </li>
 <li> 2022-2023 - Mentor at 'les rencontres ELLES actives'</li>  
 <li> 2022-Summer Conference Inclusitivity in Research at UCL Summer Conference</li>  
-<li> 2021-2023 - Athena Swan Committee member at SWC/GCNU</li>
+<li> 2021-2023 - Athena Swan Committee member at SWC/GCNU</li> 
 <li> 2021-2022 - In2Science Research Contact </li>
 <li> 2021-2022 - Gatsby Unit Student representative </li>  
 <li> 2017-2018 - Student representative on UCIL Staff Student Liaison Committee (SSLC)</li>
@@ -222,7 +234,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 #### Computing Skills <br>
 Python, C++, MATLAB, Mathematica, LTSPICE, Arduino, Latex, FOVE, Emotive, Excel.
 #### Other Skills <br>
-CPR / AED / First-Aid Certification Course, Diving level 1, Sailing License.
+PIL certified for animal handling, CPR / AED / First-Aid Certification Course, Diving level 1, Sailing License.
 
 ***
 
@@ -239,13 +251,5 @@ Blog - Art and Sciences (@artlovessciences) <br>
 French - Native language <br>
 English - TOEFL: 106/120 (2015) <br>
 German - Silver AATG, Certification level A2/B1 (2016) <br>
-Italian - Level A2+
-  
-
-
-
-
-
-
-
- 
+Italian - Level A2+ 
+   
