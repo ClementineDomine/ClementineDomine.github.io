@@ -80,7 +80,7 @@ I started this project on Instagram (@artlovesciences) a 4 years ago.
 
 #### Inclusivity <br>
 <ul>
-<li> 2023-2024 - <a href="https://drive.google.com/file/d/1DBqWaJWJaR1wE3x1N700Phl-DKhoMpao/view?usp=sharing"> Did this really happen (DTRH)' campaign in UCL And Rome Sapienza  </a>   </li>
+<li> <a href="https://drive.google.com/file/d/1DBqWaJWJaR1wE3x1N700Phl-DKhoMpao/view?usp=sharing"> Did this really happen (DTRH)' Campaign in UCL And Rome Sapienza  </a>   </li>
 <li> <a href="https://diversityinacademia.mystrikingly.com" >  Collection of resources on diversity in academia lectures </a> </li>
 <li> <a href="https://biaswatchneuro.com">Bias watch Neuro </a>  </li>
 <li> <a href="https://anneslist.net"> Anne’s List </a>  </li>

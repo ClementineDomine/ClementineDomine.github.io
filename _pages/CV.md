@@ -1,4 +1,4 @@
-----
+---
 layout: CV
 permalink: /CV/
 title: cv
@@ -252,4 +252,12 @@ French - Native language <br>
 English - TOEFL: 106/120 (2015) <br>
 German - Silver AATG, Certification level A2/B1 (2016) <br>
 Italian - Level A2+ 
-   
+  
+
+
+
+
+
+
+
+ 
