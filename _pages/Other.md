@@ -89,15 +89,6 @@ I started this project on Instagram (@artlovesciences) a 4 years ago.
 
 
 
-#### Cool scientists you should check-out <br>
-
-<ul>
-<li> <a href="https://www.williamdorrell.co.uk">Will Dorell  </a>    </li>
-<li> <a href="https://scholar.google.cl/citations?user=PLBqVGoAAAAJ&hl=en">  Rodrigo Carasco Davis </a>  </li>
-<li>  <a href=" https://scholar.google.com/citations?user=U7NxV-MAAAAJ&hl=en"> Kira Düsterwald </a> </li>
-<li>  <a href="https://github.com/TomGeorge1234">  Tom Geroge </a>   </li>
-<li>  <a href="https://eringrant.github.io"> Erin Grant </a>  </li>
-</ul>
 
 
   
