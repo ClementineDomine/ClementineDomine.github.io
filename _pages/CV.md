@@ -12,6 +12,10 @@ nav: true
 <h3> <span style="color:#DAA520">Publications and Posters </span></h3>
 
 *First Author
+
+2024 - Cosyne Poster:  <br>
+Valentino Maiorca *, et al, 'Multi-subject neural decoding via relative representations'
+
 2023 - NeuReps 2023: Symmetry and Geometry in Neural Representations Workshop, NeurIPS 2023 <br>
 Clémentine C. J. Dominé**,* Marco Pegoraro* et al, 'Geometric Epitope and Paratope Prediction' 
 
@@ -75,6 +79,9 @@ GPA:4.0
 ***
 
 <h3> <span style="color:#DAA520">Research Experience </span></h3>
+
+#### Google DeepMind NeuroLab, Google DeepMind, London, UK
+<em> Lab Member in Collaboration with Kim Stachenfeld 2023-2024 </em><br>
 
 
 #### ELLISE PhD Mobility Program, Sapienza Università di Roma, Rome, Italy
@@ -168,6 +175,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 #### Comference and Workshop <br>
 <ul>
+<li> 2024 - Google Deepmind NeuroLab Workshop (UK) </li> 
 <li> 2023 - Neurips, New Orleans (USA)</li> 
 <li> 2023 - The KITP Program Deep Learning from the Perspective of Physics and Neuroscience, Santa Barbara (USA)</li>
 <li> 2023 - CCN (Talk), Oxford (UK)</li>
@@ -183,6 +191,8 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 #### Invited Talks <br>
 <ul>
+<li> 2024 - Panel Speaker - SWC GCNU Internal symposium - 'Should all scientists try to be PI's' </li>  
+<li> 2024 - Invited talk - Google Deepmind NeuroLab Workshop (UK) </li> 
 <li> 2023 - Invited talk - Ponte Costa Lab NeuroAi workshop </li>
 <li> <a href="https://www.youtube.com/watch?v=vxcWo-YVyGE"> 2023 - Accepted Talk: Clémentine C. J. Dominé*, Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' (Top 3%)  </a>   </li>
 <li> 2023 - Invited talk - Theory center at the Zuckerman Institute Columbia </li>    
@@ -193,9 +203,10 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 #### Organiser <br>
 <ul>
+<li> 2023-2024 - GCNU Summer Bridging Program  </li>
 <li> 2022-2023 - NeurIPS Workshop: UniReps: Unifying Representations in Neural Models </li>
 <li> 2022-2023 - Applications Analytical Connectionism Summer School 2023 </li>
-<li> 2022-2023 - Summer Bridging Program  </li>
+<li> 2022-2023 - GCNU Summer Bridging Program  </li>
 <li> 2022-2023 - Saxe Lab retreat </li>
 <li> 2022-2023 - Theoretical Neuroscience Journal Club organiser</li>
 <li> 2022-2023 - NeuroAI organiser(Talks, Deeplabcut hackathon, Annual Event)</li>
@@ -205,7 +216,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 #### EDI <br>
 
 <ul>
-
+<li> 2023-2024 - WIML Neurips 2023 Comference Volonteer </li>
 <li> 2023-2024 - <a href="https://drive.google.com/file/d/1DBqWaJWJaR1wE3x1N700Phl-DKhoMpao/view?usp=sharing"> Did this really happen (DTRH)' campaign in UCL And Rome Sapienza  </a>   </li>
 <li> 2023-2024 - Sarveshwari Singh - WIML Mentor </li>
 <li> 2022-2023 - EDI representative Saxe Lab </li>

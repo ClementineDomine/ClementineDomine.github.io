@@ -85,6 +85,9 @@ I started this project on Instagram (@artlovesciences) a 4 years ago.
 <li> <a href="https://biaswatchneuro.com">Bias watch Neuro </a>  </li>
 <li> <a href="https://anneslist.net"> Anne’s List </a>  </li>
 <li> <a href="https://docs.google.com/document/d/1Ic6bil2AvrQmPFUcUyxcw_FumofKkUo3VLsU7qG0cTk/edit"> Concrete Steps for Recruiting, Supporting, and Advancing Underrepresented Minoritized Scientists</a>  </li>
+<li> <a href="https://wbhi.ucsb.edu"> Woman's Brain Health Initiative  </a>  </li>
+<li> <a href="https://sites.google.com/andrew.cmu.edu/baileyflanigan/cs-jedi-project?authuser=0"> CS-JEDI </a></li>
+<li> <a href="https://www.youtube.com/watch?v=tX5uczeISOQ"> Woman's Brain Health Initiative  </a>  </li>
 </ul>
 
 
