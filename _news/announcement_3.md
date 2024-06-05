@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-09-1 07:59:00-0400
+date: 2024-07-01 07:59:00-0400
 inline: true
 ---
 
-Recieved the Google Europe Students with Disabilities Scholarship! 🎉 🍊
+I am excited to announce that I will be visiting the Zuckerman Institute at Columbia University in New-York this Autumn to collaborate with Dr. Kimberly Stachenfeld! 🎉 🍊

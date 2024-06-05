@@ -1,7 +1,7 @@
 ---
 layout: CV
 permalink: /CV/
-title: cv
+title: CV
 
 nav: true 
 ---
@@ -12,30 +12,30 @@ nav: true
 <h3> <span style="color:#DAA520">Publications and Posters </span></h3>
 
 *First Author
+##### Published
 
-2024 - Cosyne Poster:  <br>
-Valentino Maiorca *, et al, 'Multi-subject neural decoding via relative representations'
+- **_Dominé, C._**, Braun, L., Fitzgerald, J.E., and Saxe, A.M., 2023. Exact learning dynamics of deep linear networks with prior knowledge. *Journal of Statistical Mechanics: Theory and Experiment*, 2023(11), p.114004.
+- Braun, L., **_Dominé, C._**, Fitzgerald, J., and Saxe, A., 2022. Exact learning dynamics of deep linear networks with prior knowledge. *Advances in Neural Information Processing Systems*, 35, pp.6615-6629.
+- Pegoraro, M., **_Dominé, C._**, Rodolà, E., Veličković, P., and Deac, A., 2023. Geometric Epitope and Paratope Prediction. *bioRxiv*, pp.2023-06.
 
-2023 - NeuReps 2023: Symmetry and Geometry in Neural Representations Workshop, NeurIPS 2023 <br>
-Clémentine C. J. Dominé**,* Marco Pegoraro* et al, 'Geometric Epitope and Paratope Prediction' 
+##### Pre-Print/Under-Review
 
-2023 - Learning on Graphs Log Comference <br>
-Clémentine C. J. Dominé**,* Marco Pegoraro* et al, 'Geometric Epitope and Paratope Prediction' 
+- Kunin, D., Raventós, A., **_Dominé, C._**, Chen, F., Saxe, A., and Ganguli, S. Inductive Biases of Rich and Lazy Learning in Deep Neural Networks.
+- Thompson, E., Rollick, L., Carrasco-Davis, R., **_Dominé, C._**, Dorrell, W., George, T., Mills, G., Kaur, J., Stephenson-Jones, M., 2023. Replay of Motor Sequences in the Dorsolateral Striatum during Offline Consolidation are Revealed Using an Unsupervised Point Process Model.
+- **_Dominé, C._**, Carrasco Davis, R.A., Hollingsworth, L., Sirmpilatze, N., Tyson, A.L., Jarvis, D., Barry, C., and Saxe, A.M., 2024. Neural Playground: A Standardised Environment for Evaluating Models of Hippocampus and Entorhinal Cortex. *bioRxiv*, pp.2024-03.
 
-2023 - Cognitive Computational Neuroscience (CCN) Talk  (Top 5%) <br>
-Clémentine C. J. Dominé**,* Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' 
+##### Conference Posters
 
-2023 - Cosyne Poster   <br>
-Clémentine C. J. Dominé**,* Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' 
+- Maiorca, V., Azeglio, S., Fumero, M., **_Dominé, C._**, Rodolà, E., and Locatello, F., 2024. Multi-subject neural decoding via relative representations. *Cosyne: Poster*.
+- **_Dominé, C._**, Carrasco Davis, R.A., Hollingsworth, L., Sirmpilatze, N., Tyson, A.L., Jarvis, D., Barry, C., and Saxe, A.M., 2023. NeuralPlayground: A Standardised Environment for Evaluation of Hippocampus and Entorhinal Cortex Models. *Cosyne: Poster*.
+- Pegoraro, M., **_Dominé, C._**, Rodolà, E., Veličković, P., and Deac, A., 2023. Geometric Epitope and Paratope Prediction. *bioRxiv*, pp.2023-06. *NeuReps 2023: Symmetry and Geometry in Neural Representations Workshop, NeurIPS 2023*.
+- Pegoraro, M., **_Dominé, C._**, Rodolà, E., Veličković, P., and Deac, A., 2023. Geometric Epitope and Paratope Prediction. *bioRxiv*, pp.2023-06. *Learning on Graphs Log Conference*.
+- Thompson, E., Rollick, L., Carrasco-Davis, R., **_Dominé, C._**, Dorrell, W., George, T., Mills, G., Kaur, J., Stephenson-Jones, M., 2022. Replay of motor sequences in dorsolateral striatum during offline consolidation are revealed using an unsupervised point process model. *FENS Forum: Poster*.
 
-2023 - Cosyne Talk  (Top 3%) <br>
-Emmett Thompson*, 'Replay of motor sequences in dorsolateral striatum during offline consolidation are revealed using a unsupervised point process model', Poster in FENS For(2022).(Poster)
+##### Conference Talk
 
-2022 - NeurIPS Conference Paper  <br>
-Clémentine C. J. Dominé**,* Lukas Braun*, 'Exact learning dynamics of deep linear networks with prior knowledge', NeurIPS (2022). (Paper)
-
-2022 - FENS Forum   <br>
-Emmett Thompson*, 'Replay of motor sequences in dorsolateral striatum during offline consolidation are revealed using a unsupervised point process model', Poster in FENS For(2022).(Poster)
+- Thompson, E., Rollick, L., Carrasco-Davis, R., **_Dominé, C._**, Dorrell, W., George, T., Mills, G., Kaur, J., Stephenson-Jones, M., and **_Dominé, C._**, 2023. Replay of Motor Sequences in the Dorsolateral Striatum during Offline Consolidation are Revealed Using an Unsupervised Point Process Model. *Cosyne: Talk*. (Top 3%).
+- **_Dominé, C._**, Carrasco, R. et al., 2023. NeuralPlayground: A Standardised Environment for Evaluation of Hippocampus and Entorhinal Cortex Models. *Cognitive Computational Neuroscience (CCN) Talk*. (Top 5%).
 
 ***
 
@@ -43,7 +43,7 @@ Emmett Thompson*, 'Replay of motor sequences in dorsolateral striatum during off
 
 ###### 2020-Present <br>
 
-#### Gatsby Computational Neuroscience Unit, University College London (UCL), London, United Kingdom
+##### Gatsby Computational Neuroscience Unit, University College London (UCL), London, United Kingdom
 
 Ph.D supervised by Andrew Saxe and Caswell Barry, I am studying the theory and computation at the basis of learning and memory. Research direction include: 
 <ul>
@@ -56,7 +56,7 @@ Ph.D supervised by Andrew Saxe and Caswell Barry, I am studying the theory and c
 
 
 ###### 2016 - 2020
-#### The University of Manchester (UoM), Manchester, United Kingdom
+##### The University of Manchester (UoM), Manchester, United Kingdom
 
 <em>Masters of Physics with Theoretical Physics 2016 - 2020</em><br>
 
@@ -69,7 +69,7 @@ First-Class Honours, Grade 80%
 
 
 ###### 2018 - 2019
-#### The University of California Los Angeles (UCLA), Los Angeles, USA
+##### The University of California Los Angeles (UCLA), Los Angeles, USA
 
 <em>UC Education Abroad (3rd Year) 2018 - 2019</em><br>
 <em>Notable modules:</em> Particle Physics, Advanced Quantum Mechanics, Biophysics 
@@ -80,26 +80,29 @@ GPA:4.0
 
 <h3> <span style="color:#DAA520">Research Experience </span></h3>
 
-#### Google DeepMind NeuroLab, Google DeepMind, London, UK
-<em> Lab Member in Collaboration with Kim Stachenfeld 2023-2024 </em><br>
+##### Google DeepMind NeuroLab, Google DeepMind, London, UK
+<em> External Lab Member in London, UK  2023-2024 </em><br>
+
+Supervised by Dr. Kim Stachenfeld, working on Geometric deep learning for generalizing hippocampal-entorhinal computation.
 
 
-#### ELLISE PhD Mobility Program, Sapienza Università di Roma, Rome, Italy
+
+##### ELLISE PhD Mobility Program, Sapienza Università di Roma, Rome, Italy
 <em>ElliSE Research Rotation 2021 - 2022</em><br>
 
 Supervised by Petar Veličković (DeepMind) and Emmanuele Rodolà (Sapienza), I studied the binding properties of antibody-antigen using tools of geometric deep learning. Predicting of the antibody-antigen binding region is key to developing vaccines and synthetic antibodies.
 
-#### Blue Brain Project École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland
+##### Blue Brain Project École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland
 <em>Summer Intern 2018 - 2019</em><br>
 
 Summer internship at the EPFL Blue Brain Project with Dr. Rajnish Ranjan, Section Manager of the Membrane Systems Group in the Simulation Neuroscience Division (Lausanne, Switzerland). My primary duties included in redesigning and upgrading the existing ion channel model fitting with Hodgkin-Huxley and Markov model formulation (Writting).
 
-#### The University of California Los Angeles (UCLA), Los Angeles, USA
+##### The University of California Los Angeles (UCLA), Los Angeles, USA
 <em>Undergraduate research 2018 - 2019</em><br>
 
 Supervised research at UCLA with Pr. R. Bruinsma. Study of a method of quantum state manipulation, inspired by the spin echo, which can reduce the time uncertainty error for quantum computer applications. (Papers publishes following this initial work: 1 & 2) Supervised research at UCLA with Pr. K. Arisaka. Study of the depth visual information encoding by the theta phase using reaction time in Virtual reality. (Poster)
 
-#### CERN, Geneva, Switzerland/ The University of Manchester (UoM), Manchester, United Kingdom
+###### CERN, Geneva, Switzerland/ The University of Manchester (UoM), Manchester, United Kingdom
 <em>Scientific Collaborator 2017 - 2018</em><br>
 
 Study of the E-kick procedure optimization using MATLAB PIC code simulation for non- neutral plasma with the ALPHA experiment at CERN continued as a master’s project with Dr Will Bertsche.
@@ -114,7 +117,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 <h3> <span style="color:#DAA520">Teaching</span></h3>
 <ul>
-    <li> 2022-2023 - Lecturer Gatsby UCL courses: Bridging Program (Lectures and tutorials) </li>
+    <li> 2022-2024 - Lecturer Gatsby UCL courses: Bridging Program (Lectures and tutorials) </li>
     <li> 2021-2022 - Teaching Assistant for Gatsby UCL courses: Theoretical and Systems Neuroscience Course. (Lectures and tutorials) </li>
     <li> 2021-2022 - Teaching Assistant for the Gatsby UCL courses: The CAJAL Advanced Neuroscience Training. (Lectures and tutorials) </li>
 </ul>
@@ -123,12 +126,12 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 <h3> <span style="color:#DAA520">Supervising/Mentoring</span></h3>
 <ul>
-<li> 2023-2024 - Nicolas Anguita - Masters Thesis: Deep linear networks theory </li>
+<li> 2023-2024 - Nicolas Anguita - Masters Thesis: Deep linear networks theory. (Future PhD at Cambridge) </li>
 <li> 2023-2024 - Sarveshwari Singh - WIML Mentor </li>
 <li> 2022-2023 - Kevin Ferrao - In2Research Host: 8 weeks research placement working on Neuralplayground </li>
 <li> 2022-2023 - Kendall Feeny and  Nicola Jadesola - In2Research Mentor </li>
 <li> 2021-2022 - Ariel Flint Ashery and Anton Fedotov - Summer Undergrad Interns Supervisor: on prioritised replay in the student teacher set-up. </li>
-<li> 2021-2022 - Luke Hollingsworth - Supervision of Computer Science Master student from the University College London. A simplified and detailed implementation of the Tolman Eichenbaum Machine (TEM) and ablation analysis (Grade: 78%).</li>
+<li> 2021-2022 - Luke Hollingsworth - Supervision of Computer Science Master student from the University College London. A simplified and detailed implementation of the Tolman Eichenbaum Machine (TEM) and ablation analysis (Grade: 78%). PhD at UCL. </li>
 <li> 2019-2020 - Pass Mentor Tutor for Peer-assisted Study Sessions (PASS), The University of Manchester.<br> Organised and led weekly sessions with student. </li>
     
 </ul>
@@ -148,7 +151,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 </li>
 <li> 2022 - DocSkill grant - CLIE Evening Courses Class List (£390)
 </li>
-<li> 2022 - ELISE PhD Mobility Grant (2500$)
+<li> 2022 - ELISE PhD Mobility Grant (5000€)
 </li>
 <li> 2022 - Best Poster Award - Gatsby Tri-center meeting, Israel, Hebrew University', Exact learning dynamics of deep linear networks with prior knowledge' (Poster)</li>
 <li> 2020 - The Stellify Award is the University’s most prestigious undergraduate extracurricular award (Outstanding efforts in Leadership and Volunteering).
