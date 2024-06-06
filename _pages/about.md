@@ -24,15 +24,15 @@ I focus on continual learning, reversal learning, and the acquisition of structu
 *First Author
 ##### Published
 
-- **_Dominé, C._**, Braun, L., Fitzgerald, J.E., and Saxe, A.M., 2023. Exact learning dynamics of deep linear networks with prior knowledge. *Journal of Statistical Mechanics: Theory and Experiment*, 2023(11), p.114004.
-- Braun, L., **_Dominé, C._**, Fitzgerald, J., and Saxe, A., 2022. Exact learning dynamics of deep linear networks with prior knowledge. *Advances in Neural Information Processing Systems*, 35, pp.6615-6629.
-- Pegoraro, M., **_Dominé, C._**, Rodolà, E., Veličković, P., and Deac, A., 2023. Geometric Epitope and Paratope Prediction. *bioRxiv*, pp.2023-06.
+- **_Dominé, C. \*_**, Braun, L.*, Fitzgerald, J.E., and Saxe, A.M., 2023. Exact learning dynamics of deep linear networks with prior knowledge. *Journal of Statistical Mechanics: Theory and Experiment*, 2023(11), p.114004.
+- Braun, L.\*, **_Dominé, C.\*_**, Fitzgerald, J., and Saxe, A., 2022. Exact learning dynamics of deep linear networks with prior knowledge. *Advances in Neural Information Processing Systems*, 35, pp.6615-6629.
+- Pegoraro, M. \*, **_Dominé, C. \*_**, Rodolà, E., Veličković, P., and Deac, A., 2023. Geometric Epitope and Paratope Prediction. *bioRxiv*, pp.2023-06. (Accepted in Bioinformatics)
 
 ##### Pre-Print/Under-Review
 
 - Kunin, D., Raventós, A., **_Dominé, C._**, Chen, F., Saxe, A., and Ganguli, S. Inductive Biases of Rich and Lazy Learning in Deep Neural Networks.
 - Thompson, E., Rollick, L., Carrasco-Davis, R., **_Dominé, C._**, Dorrell, W., George, T., Mills, G., Kaur, J., Stephenson-Jones, M., 2023. Replay of Motor Sequences in the Dorsolateral Striatum during Offline Consolidation are Revealed Using an Unsupervised Point Process Model.
-- **_Dominé, C._**, Carrasco Davis, R.A., Hollingsworth, L., Sirmpilatze, N., Tyson, A.L., Jarvis, D., Barry, C., and Saxe, A.M., 2024. Neural Playground: A Standardised Environment for Evaluating Models of Hippocampus and Entorhinal Cortex. *bioRxiv*, pp.2024-03.
+- **_Dominé, C. \*_**, Carrasco Davis, R.A. \*, Hollingsworth, L., Sirmpilatze, N., Tyson, A.L., Jarvis, D., Barry, C., and Saxe, A.M., 2024. Neural Playground: A Standardised Environment for Evaluating Models of Hippocampus and Entorhinal Cortex. *bioRxiv*, pp.2024-03.
 
 
 ***

@@ -53,7 +53,7 @@ where their respective faculties are located opposite the campus.
 Far from being conflicting subjects, they complete, help, grow, inspire and understand each other. 
 There exist infinite amounts of ways to show the close relationship between art and science. 
 Here are a few I like and wanted to share. I hope you like it. Enjoy the art, learn the science.
-I started this project on Instagram (@artlovesciences) a 4 years ago. 
+I started this project on Instagram (@artlovesciences) a 8 years ago. 
 
 
 

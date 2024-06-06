@@ -9,56 +9,49 @@ nav: true
 
 
 ***
-<h3> <span style="color:#DAA520">Publications and Posters </span></h3>
+<h3> <span style="color:#DAA520;font-weight:bold">Publications - Posters </span></h3>
 
 *First Author
-##### Published
+##### **Published**
 
-- **_Dominé, C._**, Braun, L., Fitzgerald, J.E., and Saxe, A.M., 2023. Exact learning dynamics of deep linear networks with prior knowledge. *Journal of Statistical Mechanics: Theory and Experiment*, 2023(11), p.114004.
-- Braun, L., **_Dominé, C._**, Fitzgerald, J., and Saxe, A., 2022. Exact learning dynamics of deep linear networks with prior knowledge. *Advances in Neural Information Processing Systems*, 35, pp.6615-6629.
-- Pegoraro, M., **_Dominé, C._**, Rodolà, E., Veličković, P., and Deac, A., 2023. Geometric Epitope and Paratope Prediction. *bioRxiv*, pp.2023-06.
+- **_Dominé, C. \*_**, Braun, L.\*, Fitzgerald, J.E., and Saxe, A.M., 2023. Exact learning dynamics of deep linear networks with prior knowledge. *Journal of Statistical Mechanics: Theory and Experiment*, 2023(11), p.114004.
+- Braun, L.\*, **_Dominé, C.\*_**, Fitzgerald, J., and Saxe, A., 2022. Exact learning dynamics of deep linear networks with prior knowledge. *Advances in Neural Information Processing Systems*, 35, pp.6615-6629.
+- Pegoraro, M. \*, **_Dominé, C.\*_**, Rodolà, E., Veličković, P., and Deac, A., 2023. Geometric Epitope and Paratope Prediction. *bioRxiv*, pp.2023-06. (Accepted in Bioinformatics)
 
-##### Pre-Print/Under-Review
+##### **Pre-Print/Under-Review**
 
 - Kunin, D., Raventós, A., **_Dominé, C._**, Chen, F., Saxe, A., and Ganguli, S. Inductive Biases of Rich and Lazy Learning in Deep Neural Networks.
 - Thompson, E., Rollick, L., Carrasco-Davis, R., **_Dominé, C._**, Dorrell, W., George, T., Mills, G., Kaur, J., Stephenson-Jones, M., 2023. Replay of Motor Sequences in the Dorsolateral Striatum during Offline Consolidation are Revealed Using an Unsupervised Point Process Model.
-- **_Dominé, C._**, Carrasco Davis, R.A., Hollingsworth, L., Sirmpilatze, N., Tyson, A.L., Jarvis, D., Barry, C., and Saxe, A.M., 2024. Neural Playground: A Standardised Environment for Evaluating Models of Hippocampus and Entorhinal Cortex. *bioRxiv*, pp.2024-03.
+- **_Dominé, C.\*_**, Carrasco Davis, R.A. \*, Hollingsworth, L., Sirmpilatze, N., Tyson, A.L., Jarvis, D., Barry, C., and Saxe, A.M., 2024. Neural Playground: A Standardised Environment for Evaluating Models of Hippocampus and Entorhinal Cortex. *bioRxiv*, pp.2024-03.
 
-##### Conference Posters
+##### **Conference Posters**
 
 - Maiorca, V., Azeglio, S., Fumero, M., **_Dominé, C._**, Rodolà, E., and Locatello, F., 2024. Multi-subject neural decoding via relative representations. *Cosyne: Poster*.
-- **_Dominé, C._**, Carrasco Davis, R.A., Hollingsworth, L., Sirmpilatze, N., Tyson, A.L., Jarvis, D., Barry, C., and Saxe, A.M., 2023. NeuralPlayground: A Standardised Environment for Evaluation of Hippocampus and Entorhinal Cortex Models. *Cosyne: Poster*.
-- Pegoraro, M., **_Dominé, C._**, Rodolà, E., Veličković, P., and Deac, A., 2023. Geometric Epitope and Paratope Prediction. *bioRxiv*, pp.2023-06. *NeuReps 2023: Symmetry and Geometry in Neural Representations Workshop, NeurIPS 2023*.
-- Pegoraro, M., **_Dominé, C._**, Rodolà, E., Veličković, P., and Deac, A., 2023. Geometric Epitope and Paratope Prediction. *bioRxiv*, pp.2023-06. *Learning on Graphs Log Conference*.
+- **_Dominé, C. \*_**, Carrasco Davis, R.A.\*, Hollingsworth, L., Sirmpilatze, N., Tyson, A.L., Jarvis, D., Barry, C., and Saxe, A.M., 2023. NeuralPlayground: A Standardised Environment for Evaluation of Hippocampus and Entorhinal Cortex Models. *Cosyne: Poster*.
+- Pegoraro, M.\*, **_Dominé, C.\*_**, Rodolà, E., Veličković, P., and Deac, A., 2023. Geometric Epitope and Paratope Prediction. *bioRxiv*, pp.2023-06. *NeuReps 2023: Symmetry and Geometry in Neural Representations Workshop, NeurIPS 2023*.
+- Pegoraro, M. \*, **_Dominé, C.\*_**, Rodolà, E., Veličković, P., and Deac, A., 2023. Geometric Epitope and Paratope Prediction. *bioRxiv*, pp.2023-06. *Learning on Graphs Log Conference*.
 - Thompson, E., Rollick, L., Carrasco-Davis, R., **_Dominé, C._**, Dorrell, W., George, T., Mills, G., Kaur, J., Stephenson-Jones, M., 2022. Replay of motor sequences in dorsolateral striatum during offline consolidation are revealed using an unsupervised point process model. *FENS Forum: Poster*.
 
-##### Conference Talk
+##### **Conference Talk**
 
 - Thompson, E., Rollick, L., Carrasco-Davis, R., **_Dominé, C._**, Dorrell, W., George, T., Mills, G., Kaur, J., Stephenson-Jones, M., and **_Dominé, C._**, 2023. Replay of Motor Sequences in the Dorsolateral Striatum during Offline Consolidation are Revealed Using an Unsupervised Point Process Model. *Cosyne: Talk*. (Top 3%).
-- **_Dominé, C._**, Carrasco, R. et al., 2023. NeuralPlayground: A Standardised Environment for Evaluation of Hippocampus and Entorhinal Cortex Models. *Cognitive Computational Neuroscience (CCN) Talk*. (Top 5%).
-
+- **_Dominé, C.\*_**, Carrasco Davis, R.A. \*, Hollingsworth, L., Sirmpilatze, N., Tyson, A.L., Jarvis, D., Barry, C., and Saxe, A.M.,2023. NeuralPlayground: A Standardised Environment for Evaluation of Hippocampus and Entorhinal Cortex Models. *Cognitive Computational Neuroscience (CCN) Talk*. (Top 5%).
 ***
 
-<h3> <span style="color:#DAA520">Education </span></h3>
+<h3> <span style="color:#DAA520;font-weight:bold">Education </span></h3>
 
-###### 2020-Present <br>
 
-##### Gatsby Computational Neuroscience Unit, University College London (UCL), London, United Kingdom
 
+##### **Gatsby Computational Neuroscience Unit, University College London (UCL), London, United Kingdom**
+###### _2020-Present_ <br>
 Ph.D supervised by Andrew Saxe and Caswell Barry, I am studying the theory and computation at the basis of learning and memory. Research direction include: 
-<ul>
-    <li>Exact learning dynamics of in Deep Linear Neural Network with Prior Knowledge Implement an unsupervised point process model for replay detection of motor sequences in the dorsolateral striatum. </li>
-    <li>Revealed first evidence for off-line consolidation of procedural memory in the dorsolateral striatum.</li>
-    <li>Reinforcement learning framework to reproducibly compare hippocampus and entorhinal cortex models against experimental results.
-    Help better understand the function of this brain region in the memory and learning mechanisms.</li>
-</ul>
 <em>Notable modules:</em> Kernels, Probabilistic, Variational Inference, Reinforcement Learning, Theoretical Neuroscience.
 
 
-###### 2016 - 2020
-##### The University of Manchester (UoM), Manchester, United Kingdom
 
-<em>Masters of Physics with Theoretical Physics 2016 - 2020</em><br>
+##### **The University of Manchester (UoM), Manchester, United Kingdom**
+###### _2016 - 2020_
+<em>Masters of Physics with Theoretical Physics</em><br>
 
 Masters thesis: Study of E-kick procedure optimization using PIC code simulation for
 non-neutral plasma with the ALPHA experiment at CERN. (Master Thesis Part 1 & 2 )
@@ -68,46 +61,48 @@ non-neutral plasma with the ALPHA experiment at CERN. (Master Thesis Part 1 & 2 
 First-Class Honours, Grade 80%
 
 
-###### 2018 - 2019
-##### The University of California Los Angeles (UCLA), Los Angeles, USA
 
-<em>UC Education Abroad (3rd Year) 2018 - 2019</em><br>
+##### **The University of California Los Angeles (UCLA), Los Angeles, USA**
+###### _2018 - 2019_
+<em>UC Education Abroad (3rd Year) </em><br>
 <em>Notable modules:</em> Particle Physics, Advanced Quantum Mechanics, Biophysics 
 
 GPA:4.0
 
 ***
 
-<h3> <span style="color:#DAA520">Research Experience </span></h3>
+<h3> <span style="color:#DAA520;font-weight:bold">Research Experience </span></h3>
 
-##### Google DeepMind NeuroLab, Google DeepMind, London, UK
-<em> External Lab Member in London, UK  2023-2024 </em><br>
+##### **Google DeepMind NeuroLab, Google DeepMind, London, UK**
+###### _2023-2024_
+<em> External Lab Member in London, UK  </em><br>
 
 Supervised by Dr. Kim Stachenfeld, working on Geometric deep learning for generalizing hippocampal-entorhinal computation.
 
 
 
-##### ELLISE PhD Mobility Program, Sapienza Università di Roma, Rome, Italy
-<em>ElliSE Research Rotation 2021 - 2022</em><br>
+##### **ELLISE PhD Mobility Program, Sapienza Università di Roma, Rome, Italy**
+###### _2021-2022_
+<em>ElliSE Research Rotation</em><br>
 
 Supervised by Petar Veličković (DeepMind) and Emmanuele Rodolà (Sapienza), I studied the binding properties of antibody-antigen using tools of geometric deep learning. Predicting of the antibody-antigen binding region is key to developing vaccines and synthetic antibodies.
 
-##### Blue Brain Project École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland
+##### **Blue Brain Project École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland**
 <em>Summer Intern 2018 - 2019</em><br>
 
 Summer internship at the EPFL Blue Brain Project with Dr. Rajnish Ranjan, Section Manager of the Membrane Systems Group in the Simulation Neuroscience Division (Lausanne, Switzerland). My primary duties included in redesigning and upgrading the existing ion channel model fitting with Hodgkin-Huxley and Markov model formulation (Writting).
 
-##### The University of California Los Angeles (UCLA), Los Angeles, USA
+##### **The University of California Los Angeles (UCLA), Los Angeles, USA**
 <em>Undergraduate research 2018 - 2019</em><br>
 
 Supervised research at UCLA with Pr. R. Bruinsma. Study of a method of quantum state manipulation, inspired by the spin echo, which can reduce the time uncertainty error for quantum computer applications. (Papers publishes following this initial work: 1 & 2) Supervised research at UCLA with Pr. K. Arisaka. Study of the depth visual information encoding by the theta phase using reaction time in Virtual reality. (Poster)
 
-###### CERN, Geneva, Switzerland/ The University of Manchester (UoM), Manchester, United Kingdom
+##### **CERN, Geneva, Switzerland/ The University of Manchester (UoM), Manchester, United Kingdom**
 <em>Scientific Collaborator 2017 - 2018</em><br>
 
 Study of the E-kick procedure optimization using MATLAB PIC code simulation for non- neutral plasma with the ALPHA experiment at CERN continued as a master’s project with Dr Will Bertsche.
 
-#### CERN, Geneva, Switzerland
+##### **CERN, Geneva, Switzerland**
 <em>Summer Intern  2016 - 2017 2017 - 2018</em><br>
 
 The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at studying fundamental symmetries between matter and anti-matter. I developed my computing and electronic skills by working on a project around a “push-pull” Mosfet circuit for the security valve of the apparatus. I developed computing and electronic skills by working on the electronic circuit of the security valve for the cryostat for the future Alpha-G experiment measuring the gravity constant with anti-matter. Day-to-day running of the experiment. (Record of the most anti-hydrogen caught) Assisted Summer Student lectures. Certified guide inside the AD facility.
@@ -115,7 +110,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 ***
 
-<h3> <span style="color:#DAA520">Teaching</span></h3>
+<h3> <span style="color:#DAA520;font-weight:bold">Teaching</span></h3>
 <ul>
     <li> 2022-2024 - Lecturer Gatsby UCL courses: Bridging Program (Lectures and tutorials) </li>
     <li> 2021-2022 - Teaching Assistant for Gatsby UCL courses: Theoretical and Systems Neuroscience Course. (Lectures and tutorials) </li>
@@ -124,7 +119,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 ***
 
-<h3> <span style="color:#DAA520">Supervising/Mentoring</span></h3>
+<h3> <span style="color:#DAA520;font-weight:bold">Supervising - Mentoring</span></h3>
 <ul>
 <li> 2023-2024 - Nicolas Anguita - Masters Thesis: Deep linear networks theory. (Future PhD at Cambridge) </li>
 <li> 2023-2024 - Sarveshwari Singh - WIML Mentor </li>
@@ -139,7 +134,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 ***
 
-<h3> <span style="color:#DAA520">Awards - Grants </span></h3>
+<h3> <span style="color:#DAA520; font-weight:bold">Awards - Grants </span></h3>
 <ul>
 <li> 2023 - Top Reviewer for NeurIPS 2023 and to secure a complimentary registration (500$) </li>
 <li> 2023 - In2research Mentor of the Year award </li>
@@ -164,9 +159,9 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 ***
 
-<h3> <span style="color:#DAA520">Other Occupations </span></h3> 
+<h3> <span style="color:#DAA520;font-weight:bold;">Other Occupations </span></h3> 
 
-#### Review <br>
+##### **Review** <br>
 <ul>
 <li> 2024 - COSYNE </li>
 <li> 2023 - NeurIPS (Top Reviewer)  </li>
@@ -176,7 +171,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 </ul>
 
 
-#### Comference and Workshop <br>
+##### **Comference and Workshop** <br>
 <ul>
 <li> 2024 - Google Deepmind NeuroLab Workshop (UK) </li> 
 <li> 2023 - Neurips, New Orleans (USA)</li> 
@@ -192,7 +187,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 <li> 2021 - The SWC Internal Symposium (Poster), London (UK)</li>
 </ul>
 
-#### Invited Talks <br>
+##### **Invited Talks** <br>
 <ul>
 <li> 2024 - Panel Speaker - SWC GCNU Internal symposium - 'Should all scientists try to be PI's' </li>  
 <li> 2024 - Invited talk - Google Deepmind NeuroLab Workshop (UK) </li> 
@@ -204,7 +199,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 <li> 2022 - Invited talk - Neurips the Woman Ignite Social </li>
 </ul>
 
-#### Organiser <br>
+##### **Organiser** <br>
 <ul>
 <li> 2023-2024 - GCNU Summer Bridging Program  </li>
 <li> 2022-2023 - NeurIPS Workshop: UniReps: Unifying Representations in Neural Models </li>
@@ -216,7 +211,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 <li> 2021-2022 - Organiser of Sainsbury Wellcome Centre (SWC) Annual Student Symposium</li>
 </ul>
 
-#### EDI <br>
+##### **EDI** <br>
 
 <ul>
 <li> 2023-2024 - WIML Neurips 2023 Comference Volonteer </li>
@@ -232,7 +227,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 </ul>
 
 
-#### Volonteering <br>
+##### **Volonteering** <br>
 <ul>
 <li> 2022 - Half-marathon fundraising for Rape Crisis England & Wales </li>
 <li> 2019 - The Midnight Mission Service Volunteer </li>
@@ -243,16 +238,16 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 ***
 
-<h3> <span style="color:#DAA520">Skills </span></h3>
+<h3> <span style="color:#DAA520;font-weight:bold">Skills </span></h3>
 
-#### Computing Skills <br>
+##### **Computing Skills** <br>
 Python, C++, MATLAB, Mathematica, LTSPICE, Arduino, Latex, FOVE, Emotive, Excel.
-#### Other Skills <br>
+##### **Other Skills** <br>
 PIL certified for animal handling, CPR / AED / First-Aid Certification Course, Diving level 1, Sailing License.
 
 ***
 
-<h3> <span style="color:#DAA520">Activities </span></h3>
+<h3> <span style="color:#DAA520;font-weight:bold">Activities </span></h3>
 
 Music - Guitar, musical theory, singing, piano, ukulele <br>
 Sports - Rock-climbing, skiing, snowboard, running <br>
@@ -260,7 +255,7 @@ Blog - Art and Sciences (@artlovessciences) <br>
 
 ***
 
-<h3> <span style="color:#DAA520">Languages </span></h3>
+<h3> <span style="color:#DAA520;font-weight:bold;">Languages </span></h3>
 
 French - Native language <br>
 English - TOEFL: 106/120 (2015) <br>
