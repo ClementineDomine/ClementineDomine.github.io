@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: clem_funpic.jpeg
+  image: clem_fun_pic.jpeg
   # address: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -30,8 +30,8 @@ I focus on continual learning, reversal learning, and the acquisition of structu
 
 ##### Pre-Print/Under-Review
 
-- Kunin, D., Raventós, A., **_Dominé, C._**, Chen, F., Saxe, A., and Ganguli, S. Inductive Biases of Rich and Lazy Learning in Deep Neural Networks.
-- Thompson, E., Rollick, L., Carrasco-Davis, R., **_Dominé, C._**, Dorrell, W., George, T., Mills, G., Kaur, J., Stephenson-Jones, M., 2023. Replay of Motor Sequences in the Dorsolateral Striatum during Offline Consolidation are Revealed Using an Unsupervised Point Process Model.
+- Kunin, D., Raventós, A., **_Dominé, C._**, Chen, F., Klindt, D., Saxe, A. & Ganguli, S., 2024. Get rich quick: exact solutions reveal how unbalanced initializations promote rapid feature learning. arXiv preprint, 2406.06158.
+- Thompson, E., Rollik, L., Waked, B., Mills, G., Kaur, J., Geva, B., Carrasco-Davis, R., George, T., **_Domine, C._**, Dorrell, W. and Stephenson-Jones, M., 2024. Replay of procedural experience is independent of the hippocampus. bioRxiv, pp.2024-06.
 - **_Dominé, C. \*_**, Carrasco Davis, R.A. \*, Hollingsworth, L., Sirmpilatze, N., Tyson, A.L., Jarvis, D., Barry, C., and Saxe, A.M., 2024. Neural Playground: A Standardised Environment for Evaluating Models of Hippocampus and Entorhinal Cortex. *bioRxiv*, pp.2024-03.
 
 

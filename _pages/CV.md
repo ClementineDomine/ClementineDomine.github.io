@@ -7,7 +7,6 @@ nav: true
 ---
 ## Computational Neurosicence PhD Student
 
-
 ***
 <h3> <span style="color:#DAA520;font-weight:bold">Publications - Posters </span></h3>
 
@@ -16,26 +15,27 @@ nav: true
 
 - **_Dominé, C. \*_**, Braun, L.\*, Fitzgerald, J.E., and Saxe, A.M., 2023. Exact learning dynamics of deep linear networks with prior knowledge. *Journal of Statistical Mechanics: Theory and Experiment*, 2023(11), p.114004.
 - Braun, L.\*, **_Dominé, C.\*_**, Fitzgerald, J., and Saxe, A., 2022. Exact learning dynamics of deep linear networks with prior knowledge. *Advances in Neural Information Processing Systems*, 35, pp.6615-6629.
-- Pegoraro, M. \*, **_Dominé, C.\*_**, Rodolà, E., Veličković, P., and Deac, A., 2023. Geometric Epitope and Paratope Prediction. *bioRxiv*, pp.2023-06. (Accepted in Bioinformatics)
+- Pegoraro, M. \*, **_Dominé, C.\*_**, Rodolà, E., Veličković, P., and Deac, A., 2023. Geometric Epitope and Paratope Prediction. *bioRxiv*, pp.2023-06. (Accepted in Bioinformatics).
 
 ##### **Pre-Print/Under-Review**
 
-- Kunin, D., Raventós, A., **_Dominé, C._**, Chen, F., Saxe, A., and Ganguli, S. Inductive Biases of Rich and Lazy Learning in Deep Neural Networks.
-- Thompson, E., Rollick, L., Carrasco-Davis, R., **_Dominé, C._**, Dorrell, W., George, T., Mills, G., Kaur, J., Stephenson-Jones, M., 2023. Replay of Motor Sequences in the Dorsolateral Striatum during Offline Consolidation are Revealed Using an Unsupervised Point Process Model.
+- Kunin, D., Raventós, A., **_Dominé, C._**, Chen, F., Klindt, D., Saxe, A. & Ganguli, S., 2024. Get rich quick: exact solutions reveal how unbalanced initializations promote rapid feature learning. arXiv preprint, 2406.06158.
+- Thompson, E., Rollik, L., Waked, B., Mills, G., Kaur, J., Geva, B., Carrasco-Davis, R., George, T., **_Domine, C._**, Dorrell, W. and Stephenson-Jones, M., 2024. Replay of procedural experience is independent of the hippocampus. bioRxiv, pp.2024-06.
 - **_Dominé, C.\*_**, Carrasco Davis, R.A. \*, Hollingsworth, L., Sirmpilatze, N., Tyson, A.L., Jarvis, D., Barry, C., and Saxe, A.M., 2024. Neural Playground: A Standardised Environment for Evaluating Models of Hippocampus and Entorhinal Cortex. *bioRxiv*, pp.2024-03.
 
-##### **Conference Posters**
+##### **Workshop papers**
+
+- **_Dominé, C.\*_**, Carrasco Davis, R.A. \*, Hollingsworth, L., Sirmpilatze, N., Tyson, A.L., Jarvis, D., Barry, C., and Saxe, A.M.,2023. NeuralPlayground: A Standardised Environment for Evaluation of Hippocampus and Entorhinal Cortex Models. *Cognitive Computational Neuroscience (CCN) Talk*. (Top 5%).
+
+##### **Abstracts**
 
 - Maiorca, V., Azeglio, S., Fumero, M., **_Dominé, C._**, Rodolà, E., and Locatello, F., 2024. Multi-subject neural decoding via relative representations. *Cosyne: Poster*.
 - **_Dominé, C. \*_**, Carrasco Davis, R.A.\*, Hollingsworth, L., Sirmpilatze, N., Tyson, A.L., Jarvis, D., Barry, C., and Saxe, A.M., 2023. NeuralPlayground: A Standardised Environment for Evaluation of Hippocampus and Entorhinal Cortex Models. *Cosyne: Poster*.
 - Pegoraro, M.\*, **_Dominé, C.\*_**, Rodolà, E., Veličković, P., and Deac, A., 2023. Geometric Epitope and Paratope Prediction. *bioRxiv*, pp.2023-06. *NeuReps 2023: Symmetry and Geometry in Neural Representations Workshop, NeurIPS 2023*.
 - Pegoraro, M. \*, **_Dominé, C.\*_**, Rodolà, E., Veličković, P., and Deac, A., 2023. Geometric Epitope and Paratope Prediction. *bioRxiv*, pp.2023-06. *Learning on Graphs Log Conference*.
 - Thompson, E., Rollick, L., Carrasco-Davis, R., **_Dominé, C._**, Dorrell, W., George, T., Mills, G., Kaur, J., Stephenson-Jones, M., 2022. Replay of motor sequences in dorsolateral striatum during offline consolidation are revealed using an unsupervised point process model. *FENS Forum: Poster*.
-
-##### **Conference Talk**
-
 - Thompson, E., Rollick, L., Carrasco-Davis, R., **_Dominé, C._**, Dorrell, W., George, T., Mills, G., Kaur, J., Stephenson-Jones, M., and **_Dominé, C._**, 2023. Replay of Motor Sequences in the Dorsolateral Striatum during Offline Consolidation are Revealed Using an Unsupervised Point Process Model. *Cosyne: Talk*. (Top 3%).
-- **_Dominé, C.\*_**, Carrasco Davis, R.A. \*, Hollingsworth, L., Sirmpilatze, N., Tyson, A.L., Jarvis, D., Barry, C., and Saxe, A.M.,2023. NeuralPlayground: A Standardised Environment for Evaluation of Hippocampus and Entorhinal Cortex Models. *Cognitive Computational Neuroscience (CCN) Talk*. (Top 5%).
+
 ***
 
 <h3> <span style="color:#DAA520;font-weight:bold">Education </span></h3>
@@ -78,7 +78,6 @@ GPA:4.0
 <em> External Lab Member in London, UK  </em><br>
 
 Supervised by Dr. Kim Stachenfeld, working on Geometric deep learning for generalizing hippocampal-entorhinal computation.
-
 
 
 ##### **ELLISE PhD Mobility Program, Sapienza Università di Roma, Rome, Italy**
@@ -134,8 +133,9 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 ***
 
-<h3> <span style="color:#DAA520; font-weight:bold">Awards - Grants </span></h3>
+<h3> <span style="color:#DAA520; font-weight:bold">Awards - Honors </span></h3>
 <ul>
+<li> 2024 - UCL Inclusion Awards 2024 - Shortlisted Nominee - Sir Stephen Wall Award: Inspiring Role Model  </li>
 <li> 2023 - Top Reviewer for NeurIPS 2023 and to secure a complimentary registration (500$) </li>
 <li> 2023 - In2research Mentor of the Year award </li>
 <li> 2023 - Google Europe Students with Disabilities Scholarship.(7000£) </li>
@@ -161,7 +161,48 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 <h3> <span style="color:#DAA520;font-weight:bold;">Other Occupations </span></h3> 
 
-##### **Review** <br>
+##### **Comference and Workshop** <br>
+<ul>
+<li> 2024 - Talk - Google Deepmind NeuroLab Workshop (UK) </li> 
+<li> 2023 - Attendee - Neurips, New Orleans (USA)</li> 
+<li> 2023 - Attendee -The KITP Program Deep Learning from the Perspective of Physics and Neuroscience, Santa Barbara (USA)</li>
+<li> 2023 - Talk - CCN contributed, Oxford (UK)</li>
+<li> 2023 - Poster - UCL Faculty of Life Sciences Festival of Research, London (UK)</li>    
+<li> 2023 - Poster - COSYNE, Montreal (CA)</li>
+<li> 2022 - Poster - Neurips (Paper), New Orleans (USA)</li>
+<li> 2022 - Poster - The Gatsby Tri-Center Hebrew Universtiy, Jerusalem (Israel)</li>
+<li> 2022 - Attendee - COSYNE, Lisbon (Portugal)</li>
+<li> 2021 - Poster - The SWC Internal Symposium, London (UK)</li>
+</ul>
+
+##### **Additional professional training**
+######  **Summer & winter schools attended**
+<ul>
+<li> 2023 - Princeton ML Theory Summer School (Poster), Princeton (USA)</li> 
+<li> 2023 - Les Houches Workshop school of Physics 'Latest advances on biological and artificial neural network'(Poster), Les Houches (FR)</li>
+</ul>
+
+##### **Talks** <br>
+###### **Contributed Talks** <br>
+<ul>
+<li> 2023 <a href="https://www.youtube.com/watch?v=vxcWo-YVyGE"> 2023 - Accepted Talk: Clémentine C. J. Dominé*, Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' (Top 3%)  </a>   </li>
+<li> 2022 -Thompson, E., Rollick, L., Carrasco-Davis, R., **_Dominé, C._**, Dorrell, W., George, T., Mills, G., Kaur, J., Stephenson-Jones, M., and **_Dominé, C._**, 2023. Replay of Motor Sequences in the Dorsolateral Striatum during Offline Consolidation are Revealed Using an Unsupervised Point Process Model. *Cosyne: Talk*. (Top 3%).</li>
+</ul>
+
+###### **Invited Talks** <br>
+<ul>
+<li> 2024 - Panel Speaker - SWC GCNU Internal symposium - 'Should all scientists try to be PI's' </li>  
+<li> 2024 - Invited talk - Google Deepmind NeuroLab workshop (UK) </li> 
+<li> 2023 - Invited talk - Ponte-Costa Lab NeuroAi workshop </li>
+<li> 2023 - Invited talk - Theory center at the Zuckerman Institute Columbia </li>    
+<li> 2023 - Invited talk - NeuroAI UCL </li>
+<li> 2022 - Invited talk - Rome Sapienza </li>
+<li> 2022 - Invited talk - Neurips the Woman Ignite Social </li>
+</ul>    
+
+##### **Professional services** <br>
+
+###### **Review** <br>
 <ul>
 <li> 2024 - COSYNE </li>
 <li> 2023 - NeurIPS (Top Reviewer)  </li>
@@ -170,71 +211,45 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 <li> 2022 - Reviewer for NeurIPS Workshop NeurReps </li>
 </ul>
 
-
-##### **Comference and Workshop** <br>
+###### **Workshop Chair** <br>
 <ul>
-<li> 2024 - Google Deepmind NeuroLab Workshop (UK) </li> 
-<li> 2023 - Neurips, New Orleans (USA)</li> 
-<li> 2023 - The KITP Program Deep Learning from the Perspective of Physics and Neuroscience, Santa Barbara (USA)</li>
-<li> 2023 - CCN (Talk), Oxford (UK)</li>
-<li> 2023 - Princeton ML Theory Summer School (Poster), Princeton (USA)</li> 
-<li> 2023 - UCL Faculty of Life Sciences Festival of Research (Poster), London (UK)</li>    
-<li> 2023 - COSYNE (Poster), Montreal (CA)</li>
-<li> 2023 - Les Houches Workshop school of Physics 'Latest advances on biological and artificial neural network'(Poster), Les Houches (FR)</li>
-<li> 2022 - Neurips (Paper), New Orleans (USA)</li>
-<li> 2022 - Poster presentation at the Gatsby Tri-Center Hebrew Universtiy (Poster), Jerusalem (Israel)</li>
-<li> 2022 - COSYNE, Lisbon (Portugal)</li>
-<li> 2021 - The SWC Internal Symposium (Poster), London (UK)</li>
-</ul>
-
-##### **Invited Talks** <br>
-<ul>
-<li> 2024 - Panel Speaker - SWC GCNU Internal symposium - 'Should all scientists try to be PI's' </li>  
-<li> 2024 - Invited talk - Google Deepmind NeuroLab Workshop (UK) </li> 
-<li> 2023 - Invited talk - Ponte Costa Lab NeuroAi workshop </li>
-<li> <a href="https://www.youtube.com/watch?v=vxcWo-YVyGE"> 2023 - Accepted Talk: Clémentine C. J. Dominé*, Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' (Top 3%)  </a>   </li>
-<li> 2023 - Invited talk - Theory center at the Zuckerman Institute Columbia </li>    
-<li> 2023 - Invited talk - NeuroAI UCL </li>
-<li> 2022 - Invited talk - Rome Sapienza </li>
-<li> 2022 - Invited talk - Neurips the Woman Ignite Social </li>
-</ul>
-
-##### **Organiser** <br>
-<ul>
-<li> 2023-2024 - GCNU Summer Bridging Program  </li>
 <li> 2022-2023 - NeurIPS Workshop: UniReps: Unifying Representations in Neural Models </li>
-<li> 2022-2023 - Applications Analytical Connectionism Summer School 2023 </li>
-<li> 2022-2023 - GCNU Summer Bridging Program  </li>
-<li> 2022-2023 - Saxe Lab retreat </li>
-<li> 2022-2023 - Theoretical Neuroscience Journal Club organiser</li>
-<li> 2022-2023 - NeuroAI organiser(Talks, Deeplabcut hackathon, Annual Event)</li>
+</ul>
+
+###### **Institutional & departmental committees**
+<ul>
+<li> 2023-2024 - Application Review Committee, GCNU Summer Bridging Program  </li>
+<li> 2022-2023 - Application Review Committee, School on Analytical Connectionism, Gatsby Unit, UCL. 2023 </li>
+<li> 2022-2023 - Application Review Committee, GCNU Summer Bridging Program  </li>
+<li> 2022-2023 - Organiser Saxe Lab retreat </li>
+<li> 2022-2023 - Organiser Gatsby Theoretical Neuroscience Journal Club </li>
+<li> 2022-2023 - Organiser NeuroAI UCL organiser(Talks, Deeplabcut hackathon, Annual Event)</li>
 <li> 2021-2022 - Organiser of Sainsbury Wellcome Centre (SWC) Annual Student Symposium</li>
 </ul>
 
-##### **EDI** <br>
+###### **Outreach** <br>
 
 <ul>
-<li> 2023-2024 - WIML Neurips 2023 Comference Volonteer </li>
+<li> 2023-2024 - DEI representative Gatsby </li>
 <li> 2023-2024 - <a href="https://drive.google.com/file/d/1DBqWaJWJaR1wE3x1N700Phl-DKhoMpao/view?usp=sharing"> Did this really happen (DTRH)' campaign in UCL And Rome Sapienza  </a>   </li>
-<li> 2023-2024 - Sarveshwari Singh - WIML Mentor </li>
-<li> 2022-2023 - EDI representative Saxe Lab </li>
+<li> 2022-2023 - DEI representative Saxe Lab </li>
 <li> 2022-2023 - Mentor at 'les rencontres ELLES actives'</li>  
+<li> 2022-2023 - <a href="https://www.youtube.com/watch?v=qIuFOMr0q4A&feature=youtu.be">Podcast </a>   </li>
+<li> 2022-2023 - <a href="https://podcasters.spotify.com/pod/show/neuroverse9/episodes/49--Neuro-Inspired-AI-with-Clmentine-Domin-e23rm7f">Neuro-Inspired AI with Clémentine Dominé </a>   </li>
+<li> 2022-2023 - <a href="https://ellis.eu/news/elise-mobility-program-for-phd-students-and-postdocs-two-participants-share-their-experiences">  ELISE Mobility Program for PhD students and postdocs: Two participants share their experiences </a>  </li>
+<li> 2022-2023 - <a href="https://www.youtube.com/watch?v=4QWHw1gLgfY"> Andrew Saxe, PhD, 2023 Blavatnik Awards  </a> </li>
+<li> 2022-2023 - <a href="https://www.youtube.com/watch?v=ZE2Zqb3wvdI"> Sainsbury Wellcome Centre: Research Mission </a> </li> 
+<li> 2022-2023 - <a href="https://www.youtube.com/watch?v=AdXOrtXMr8E"> Sainsbury Wellcome Centre: Research Culture </a> </li>
 <li> 2022-Summer Conference Inclusitivity in Research at UCL Summer Conference</li>  
 <li> 2021-2023 - Athena Swan Committee member at SWC/GCNU</li> 
+<li> 2021-2022 - <a href="https://www.sainsburywellcome.org/web/qa/embracing-intersection-between-neuroscience-physics-and-art "> SWC Interview : Embracing intersection between neuroscience physics and art </a>  </li>
 <li> 2021-2022 - In2Science Research Contact </li>
 <li> 2021-2022 - Gatsby Unit Student representative </li>  
 <li> 2017-2018 - Student representative on UCIL Staff Student Liaison Committee (SSLC)</li>
 </ul>
 
 
-##### **Volonteering** <br>
-<ul>
-<li> 2022 - Half-marathon fundraising for Rape Crisis England & Wales </li>
-<li> 2019 - The Midnight Mission Service Volunteer </li>
-<li> 2019 - Volonteer Association Mondiale pour les Orphelins </li>
-<li> 2018 - Fundraising Volunteer for the Santa Monica Mountain Restoration  </li>
-<li> 2018 - Swimathon fundraising for Cancer Research UK  </li>
-</ul>
+
 
 ***
 
@@ -253,6 +268,15 @@ Music - Guitar, musical theory, singing, piano, ukulele <br>
 Sports - Rock-climbing, skiing, snowboard, running <br>
 Blog - Art and Sciences (@artlovessciences) <br>
 
+###### **Volonteering** <br>
+<ul>
+<li> 2024 - WIML Neurips 2023 Comference Volonteer </li>
+<li> 2022 - Half-marathon fundraising for Rape Crisis England & Wales </li>
+<li> 2019 - The Midnight Mission Service Volunteer </li>
+<li> 2019 - Volonteer Association Mondiale pour les Orphelins </li>
+<li> 2018 - Fundraising Volunteer for the Santa Monica Mountain Restoration  </li>
+<li> 2018 - Swimathon fundraising for Cancer Research UK  </li>
+</ul>
 ***
 
 <h3> <span style="color:#DAA520;font-weight:bold;">Languages </span></h3>

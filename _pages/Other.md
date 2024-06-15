@@ -9,7 +9,7 @@ nav: true
 
 ***
 
-<h3> <span style="color:#DAA520"> Outreach </span></h3>
+<h3> <span style="color:#DAA520; font-weight:bold"> **Outreach** </span></h3>
 
 <ul>
 <li> <a href="https://www.youtube.com/watch?v=qIuFOMr0q4A&feature=youtu.be">Podcast </a>   </li>
@@ -22,11 +22,10 @@ nav: true
 <li> <a href="https://www.youtube.com/watch?v=AdXOrtXMr8E"> Sainsbury Wellcome Centre: Research Culture </a> </li>
 </ul>
 
-https://www.youtube.com/watch?v=AdXOrtXMr8E
 
 ***
 
-<h3> <span style="color:#DAA520"> Lectures and Writting  </span></h3>
+<h3> <span style="color:#DAA520;font-weight:bold"> Lectures and Writting  </span></h3>
 
 <ul>
 <li><a href=" https://drive.google.com/file/d/1QWlE49cMUyxjuUWd7MaqTuKwe9ovqTE3/view?usp=sharing "> Criptography Lecture </a> </li>
@@ -38,7 +37,7 @@ https://www.youtube.com/watch?v=AdXOrtXMr8E
 
 
 *****
-<h3> <span style="color:#DAA520">Art Loves Sciences</span></h3>
+<h3> <span style="color:#DAA520;font-weight:bold">Art Loves Sciences</span></h3>
 
  <a href="https://artlovessciences.github.io">Blog </a>  <br>
  <a href="https://www.instagram.com/art_loves_sciences/">Instagram </a>    <br>
@@ -59,7 +58,7 @@ I started this project on Instagram (@artlovesciences) a 8 years ago.
 
 
 ***
-<h3> <span style="color:#DAA520">Resources </span></h3> 
+<h3> <span style="color:#DAA520;font-weight:bold">Resources </span></h3> 
 
 #### Machine Learning <br>
 
