@@ -22,7 +22,6 @@ nav: true
 - **_Dominé, C.\*_**; Anguita,N\*; Proca, AM.; Braun, L; Kunin;D Mediano, P.A.M. ; Saxe , A.M.; 2024. From Lazy to Rich: Exact Learning Dynamics in Deep Linear Networks. arXiv. <a href= "https://doi.org/10.48550/arXiv.2406.06158"> [paper]</a> 
 - Thompson, E., Rollik, L., Waked, B., Mills, G., Kaur, J., Geva, B., Carrasco-Davis, R., George, T., **Domine, C.**, Dorrell, W. and Stephenson-Jones, M., 2024. Replay of procedural experience is independent of the hippocampus. bioRxiv, pp.2024-06.  <a href= "https://www.biorxiv.org/content/biorxiv/early/2024/06/06/2024.06.05.597547.full.pdf"> [paper]</a> 
 - **_Dominé, C.\*_**, Carrasco Davis, R.A. \*, Hollingsworth, L., Sirmpilatze, N., Tyson, A.L., Jarvis, D., Barry, C., and Saxe, A.M., 2024. Neural Playground: A Standardised Environment for Evaluating Models of Hippocampus and Entorhinal Cortex. *bioRxiv*, pp.2024-03. <a href= "https://www.biorxiv.org/content/biorxiv/early/2024/03/12/2024.03.06.583699.full.pdf"> [paper]</a>
-***
 
 ##### **Workshop papers**
 - Jarvis, D\*; Lee,S\*;  **_Dominé, C.\*_**;  Sarao Mannelli , S;   Saxe ,A.M.; A Theory of Initialisation's Impact on Specialisation’.  NeurIPS 2024 Workshop on Mathematics of Modern Machine Learning.
