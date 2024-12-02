@@ -9,12 +9,13 @@ nav: true
 
 ***
 
-<h3> <span style="color:#DAA520; font-weight:bold"> **Outreach** </span></h3>
+<h3> <span style="color:#DAA520; font-weight:bold"> Outreach </span></h3>
 
 <ul>
-<li> <a href="https://www.youtube.com/watch?v=qIuFOMr0q4A&feature=youtu.be">Podcast </a>   </li>
+<li> <a href="https://www.sainsburywellcome.org/web/blog/hopfield-hinton-and-hassabis-2024-nobel-laureates-shaping-neuroscience">  Hopfield, Hinton, and Hassabis: 2024 Nobel laureates shaping neuroscience  </a> </li> 
+<li> <a href="https://www.youtube.com/watch?v=qIuFOMr0q4A&feature=youtu.be"> Podcast ML in Neuroscience </a>   </li>
 <li> <a href="https://www.youtube.com/watch?v=vxcWo-YVyGE"> 2023 - Accepted Talk: Clémentine C. J. Dominé*, Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' (Top 3%)  </a>   </li>
-<li> <a href="https://podcasters.spotify.com/pod/show/neuroverse9/episodes/49--Neuro-Inspired-AI-with-Clmentine-Domin-e23rm7f">Neuro-Inspired AI with Clémentine Dominé </a>   </li>
+<li> <a href="https://podcasters.spotify.com/pod/show/neuroverse9/episodes/49--Neuro-Inspired-AI-with-Clmentine-Domin-e23rm7f">Podcast on Neuro-Inspired AI with Clémentine Dominé </a>   </li>
 <li> <a href="https://www.sainsburywellcome.org/web/qa/embracing-intersection-between-neuroscience-physics-and-art "> SWC Interview : Embracing intersection between neuroscience physics and art </a>  </li>
 <li> <a href="https://ellis.eu/news/elise-mobility-program-for-phd-students-and-postdocs-two-participants-share-their-experiences">  ELISE Mobility Program for PhD students and postdocs: Two participants share their experiences </a>  </li>
 <li> <a href="https://www.youtube.com/watch?v=4QWHw1gLgfY"> Andrew Saxe, PhD, 2023 Blavatnik Awards  </a> </li>
@@ -60,7 +61,7 @@ I started this project on Instagram (@artlovesciences) a 8 years ago.
 ***
 <h3> <span style="color:#DAA520;font-weight:bold">Resources </span></h3> 
 
-#### Machine Learning <br>
+##### **Machine Learning** <br>
 
 <ul>
 <li> Arthur Gretton’s lecture  <a href="http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html"> lecture </a> notes on RKHS theory </li>
@@ -70,14 +71,14 @@ I started this project on Instagram (@artlovesciences) a 8 years ago.
 </ul>
 
 
-#### Theoretical Neurosciences <br>
+##### **Theoretical Neurosciences** <br>
 <ul>
 <li> Gatsby/SWC Systems and Theoretical Neuroscience course <a href="https://www.gatsby.ucl.ac.uk/teaching/courses/sntn/sntn-2018/lectures.html"> lectures </a> </li>
 <li> Gatsby Theoretical Neuroscience  <a  href= "https://www.williamdorrell.co.uk/pdfs/TN_Notes.pdf">lectures  </a>   </li>
 </ul>
 
 
-#### Inclusivity <br>
+##### **Inclusivity** <br>
 <ul>
 <li> <a href="https://drive.google.com/file/d/1DBqWaJWJaR1wE3x1N700Phl-DKhoMpao/view?usp=sharing"> Did this really happen (DTRH)' Campaign in UCL And Rome Sapienza  </a>   </li>
 <li> <a href="https://diversityinacademia.mystrikingly.com" >  Collection of resources on diversity in academia lectures </a> </li>
