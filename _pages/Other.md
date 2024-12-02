@@ -9,7 +9,7 @@ nav: true
 
 ***
 
-<h3> <span style="color:#DAA520"> Outreach </span></h3>
+<h3> <span style="color:#DAA520; font-weight:bold"> **Outreach** </span></h3>
 
 <ul>
 <li> <a href="https://www.youtube.com/watch?v=qIuFOMr0q4A&feature=youtu.be">Podcast </a>   </li>
@@ -22,11 +22,10 @@ nav: true
 <li> <a href="https://www.youtube.com/watch?v=AdXOrtXMr8E"> Sainsbury Wellcome Centre: Research Culture </a> </li>
 </ul>
 
-https://www.youtube.com/watch?v=AdXOrtXMr8E
 
 ***
 
-<h3> <span style="color:#DAA520"> Lectures and Writting  </span></h3>
+<h3> <span style="color:#DAA520;font-weight:bold"> Lectures and Writting  </span></h3>
 
 <ul>
 <li><a href=" https://drive.google.com/file/d/1QWlE49cMUyxjuUWd7MaqTuKwe9ovqTE3/view?usp=sharing "> Criptography Lecture </a> </li>
@@ -38,7 +37,7 @@ https://www.youtube.com/watch?v=AdXOrtXMr8E
 
 
 *****
-<h3> <span style="color:#DAA520">Art Loves Sciences</span></h3>
+<h3> <span style="color:#DAA520;font-weight:bold">Art Loves Sciences</span></h3>
 
  <a href="https://artlovessciences.github.io">Blog </a>  <br>
  <a href="https://www.instagram.com/art_loves_sciences/">Instagram </a>    <br>
@@ -53,13 +52,13 @@ where their respective faculties are located opposite the campus.
 Far from being conflicting subjects, they complete, help, grow, inspire and understand each other. 
 There exist infinite amounts of ways to show the close relationship between art and science. 
 Here are a few I like and wanted to share. I hope you like it. Enjoy the art, learn the science.
-I started this project on Instagram (@artlovesciences) a 4 years ago. 
+I started this project on Instagram (@artlovesciences) a 8 years ago. 
 
 
 
 
 ***
-<h3> <span style="color:#DAA520">Resources </span></h3> 
+<h3> <span style="color:#DAA520;font-weight:bold">Resources </span></h3> 
 
 #### Machine Learning <br>
 
@@ -80,24 +79,22 @@ I started this project on Instagram (@artlovesciences) a 4 years ago.
 
 #### Inclusivity <br>
 <ul>
+<<<<<<< HEAD
 <li> 2023-2024 - <a href="https://drive.google.com/file/d/1DBqWaJWJaR1wE3x1N700Phl-DKhoMpao/view?usp=sharing"> Did this really happen (DTRH)' campaign in UCL And Rome Sapienza  </a>   </li>
+=======
+<li> <a href="https://drive.google.com/file/d/1DBqWaJWJaR1wE3x1N700Phl-DKhoMpao/view?usp=sharing"> Did this really happen (DTRH)' Campaign in UCL And Rome Sapienza  </a>   </li>
+>>>>>>> a34fd0c1209d0d3e3d1c0cb7c0e1242b86421a7a
 <li> <a href="https://diversityinacademia.mystrikingly.com" >  Collection of resources on diversity in academia lectures </a> </li>
 <li> <a href="https://biaswatchneuro.com">Bias watch Neuro </a>  </li>
 <li> <a href="https://anneslist.net"> Anne’s List </a>  </li>
 <li> <a href="https://docs.google.com/document/d/1Ic6bil2AvrQmPFUcUyxcw_FumofKkUo3VLsU7qG0cTk/edit"> Concrete Steps for Recruiting, Supporting, and Advancing Underrepresented Minoritized Scientists</a>  </li>
+<li> <a href="https://wbhi.ucsb.edu"> Woman's Brain Health Initiative  </a>  </li>
+<li> <a href="https://sites.google.com/andrew.cmu.edu/baileyflanigan/cs-jedi-project?authuser=0"> CS-JEDI </a></li>
+<li> <a href="https://www.youtube.com/watch?v=tX5uczeISOQ"> Woman's Brain Health Initiative  </a>  </li>
 </ul>
 
 
 
-#### Cool scientists you should check-out <br>
-
-<ul>
-<li> <a href="https://www.williamdorrell.co.uk">Will Dorell  </a>    </li>
-<li> <a href="https://scholar.google.cl/citations?user=PLBqVGoAAAAJ&hl=en">  Rodrigo Carasco Davis </a>  </li>
-<li>  <a href=" https://scholar.google.com/citations?user=U7NxV-MAAAAJ&hl=en"> Kira Düsterwald </a> </li>
-<li>  <a href="https://github.com/TomGeorge1234">  Tom Geroge </a>   </li>
-<li>  <a href="https://eringrant.github.io"> Erin Grant </a>  </li>
-</ul>
 
 
   
