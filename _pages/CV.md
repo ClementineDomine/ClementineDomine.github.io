@@ -12,6 +12,9 @@ nav: true
 
 *First Author
 ##### **Published**
+-
+- Jarvis, D.\*, Lee, S.\*, **_Dominé, C.\*_**, Saxe, A.M., and Sarao Mannelli, S. (2025). A Theory of Initialisation's Impact on Specialisation. Proceedings of the International Conference on Learning Representations (ICLR 2025). <a href= "https://openreview.net/forum?id=RQz7szbVDs&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)"> [paper]</a> 
+- **_Dominé, C.\*_**, Anguita, N.\*, Proca, A.M., Braun, L., Kunin, D., Mediano, P.A.M. and Saxe, A.M. (2025). From Lazy to Rich: Exact Learning Dynamics in Deep Linear Networks. Proceedings of the International Conference on Learning Representations (ICLR 2025). <a href= "https://doi.org/10.48550/arXiv.2406.06158"> [paper]</a> 
 - Kunin, D.\*, Raventós, A.\*, **Dominé, C.**, Chen, F., Klindt, D., Saxe, A. & Ganguli, S., 2024. Get rich quick: Exact solutions reveal how unbalanced initializations promote rapid feature learning. Advances in Neural Information Processing Systems (Neurips),38, **(Spotlight)**. <a href=" https://arxiv.org/abs/2406.06158"> [paper]</a>
 - Fumero, M., Rodolá, E.,  **Dominé, C.**, Locatello, F., Dziugaite, K. and Mathilde, C., 2024, May. Preface of UniReps: the First Workshop on Unifying Representations in Neural Models. In Proceedings of UniReps: the First Workshop on Unifying Representations in Neural Models (pp. 1-10). PMLR. <a href= "https://proceedings.mlr.press/v243/fumero24a/fumero24a.pdf"> [paper]</a>  
 - **_Dominé, C. \*_**, Braun, L.\*, Fitzgerald, J.E., and Saxe, A.M., 2023. Exact learning dynamics of deep linear networks with prior knowledge. *Journal of Statistical Mechanics: Theory and Experiment*, 2023(11), p.114004. <a href= " https://iopscience.iop.org/article/10.1088/1742-5468/ad01b8/pdf"> [paper]</a>  
