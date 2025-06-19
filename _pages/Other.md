@@ -55,8 +55,21 @@ There exist infinite amounts of ways to show the close relationship between art 
 Here are a few I like and wanted to share. I hope you like it. Enjoy the art, learn the science.
 I started this project on Instagram (@artlovesciences) a 8 years ago. 
 
+<h4> <span style="color:#DAA520;font-weight:bold">Artwork by Mary Yacoob</span></h4>
+
+ 
+Title of Artwork: ‘Unifying Representations in Biological and Artificial Systems – in Dialogue with Clémentine Dominé, PhD candidate at the Gatsby Computational Neuroscience Unit’.
+ 
+Cyanotype Print on Arches Platine Paper, edition of 30, 52cm x 70cm, 2025
+ 
+<img src="../assets/img/art.jpg" alt="Artwork by Mary Yacoob" style="max-width:100%; height:auto; margin-bottom:15px;">
 
 
+Clémentine Dominé researches how representations in the brain and of artificial networks align or diverge, in order to reveal key computational similarities and distinctions, despite differing physical substrates and architectures. Clémentine provided Mary with an illustration she created using Artificial Intelligence. The drawing that Mary produced in response to this suggests a more speculative integration of organic and artificial systems.
+ 
+Mary’s drawing adopts, deconstructs and merges symbols found in diagrams of neurons, circuit boards and artificial neural networks. The central image is inspired by a cross-section of a human brain. Frayed boundaries blend the central image into its surroundings, reflecting the notion of extended cognition, the idea that cognition involves networks of connections between the brain, body, tools, and the environment.
+
+See more of Mary’s work    <a href="https://www.mary-yacoob.com/selectedimages">here </a>  <br>
 
 ***
 <h3> <span style="color:#DAA520;font-weight:bold">Resources </span></h3> 

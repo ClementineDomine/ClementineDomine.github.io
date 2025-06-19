@@ -12,9 +12,11 @@ nav: true
 
 *First Author
 ##### **Published**
+- Proca, A.M., **_Dominé, C._**, Shanahan, M. and Mediano, P.A.M., 2025. Learning dynamics in linear recurrent neural networks. Proceedings of the 42nd International Conference on Machine Learning (ICML 2025). **(Oral)**
+- Nam, Y., Lee, S.H., **_Dominé, C._**, Park, Y.C., London, C., Choi, W., Goring, N. and Lee, S., 2025. Position: Solve Layerwise Linear Models First to Understand Neural Dynamical Phenomena (Neural Collapse, Emergence, Lazy/Rich Regime, and Grokking). ICML 2025 Position Paper Track. <a href= "https://arxiv.org/abs/2502.21009"> [paper]</a>  
 - Jarvis, D.\*, Lee, S.\*, **_Dominé, C.\*_**, Saxe, A.M., and Sarao Mannelli, S. (2025). A Theory of Initialisation's Impact on Specialisation. Proceedings of the International Conference on Learning Representations (ICLR 2025). <a href= "https://openreview.net/forum?id=RQz7szbVDs&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)"> [paper]</a> 
-- **_Dominé, C.\*_**, Anguita, N.\*, Proca, A.M., Braun, L., Kunin, D., Mediano, P.A.M. and Saxe, A.M. (2025). From Lazy to Rich: Exact Learning Dynamics in Deep Linear Networks. Proceedings of the International Conference on Learning Representations (ICLR 2025). <a href= "https://doi.org/10.48550/arXiv.2406.06158"> [paper]</a> 
-- Kunin, D.\*, Raventós, A.\*, **Dominé, C.**, Chen, F., Klindt, D., Saxe, A. & Ganguli, S., 2024. Get rich quick: Exact solutions reveal how unbalanced initializations promote rapid feature learning. Advances in Neural Information Processing Systems (Neurips),38, **(Spotlight)**. <a href=" https://arxiv.org/abs/2406.06158"> [paper]</a>
+- **_Dominé, C.\*_**, Anguita, N.\*, Proca, A.M., Braun, L., Kunin, D., Mediano, P.A.M. and Saxe, A.M. (2025). From Lazy to Rich: Exact Learning Dynamics in Deep Linear Networks. Proceedings of the International Conference on Learning Representations (ICLR 2025). <a href= "https://arxiv.org/pdf/2409.14623"> [paper]</a> 
+- Kunin, D.\*, Raventós, A.\*, **_Dominé, C._**, Chen, F., Klindt, D., Saxe, A. & Ganguli, S., 2024. Get rich quick: Exact solutions reveal how unbalanced initializations promote rapid feature learning. Advances in Neural Information Processing Systems (Neurips),38, **(Spotlight)**. <a href=" https://arxiv.org/abs/2406.06158"> [paper]</a>
 - Fumero, M., Rodolá, E.,  **Dominé, C.**, Locatello, F., Dziugaite, K. and Mathilde, C., 2024, May. Preface of UniReps: the First Workshop on Unifying Representations in Neural Models. In Proceedings of UniReps: the First Workshop on Unifying Representations in Neural Models (pp. 1-10). PMLR. <a href= "https://proceedings.mlr.press/v243/fumero24a/fumero24a.pdf"> [paper]</a>  
 - **_Dominé, C. \*_**, Braun, L.\*, Fitzgerald, J.E., and Saxe, A.M., 2023. Exact learning dynamics of deep linear networks with prior knowledge. *Journal of Statistical Mechanics: Theory and Experiment*, 2023(11), p.114004. <a href= " https://iopscience.iop.org/article/10.1088/1742-5468/ad01b8/pdf"> [paper]</a>  
 - Braun, L.\*, **_Dominé, C.\*_**, Fitzgerald, J., and Saxe, A., 2022. Exact learning dynamics of deep linear networks with prior knowledge. *Advances in Neural Information Processing Systems*, 35, pp.6615-6629.  <a href= "https://proceedings.neurips.cc/paper_files/paper/2022/file/2b3bb2c95195130977a51b3bb251c40a-Paper-Conference.pdf"> [paper]</a> 
@@ -30,7 +32,7 @@ nav: true
 - **_Dominé, C.\*_**, Carrasco Davis, R.A. \*, Hollingsworth, L., Sirmpilatze, N., Tyson, A.L., Jarvis, D., Barry, C., and Saxe, A.M.,2023. NeuralPlayground: A Standardised Environment for Evaluation of Hippocampus and Entorhinal Cortex Models. *Cognitive Computational Neuroscience (CCN) Talk*. (Top 5%).
 
 ##### **Abstracts**
-
+- Goolam, M.S., **_Dominé, C._**, Hollingsworth, L., Carrasco-Davis, R.A., Tasse, G.N. & Jarvis, D., 2025. Rat on a sphere: Exploring alternate grid cell representations on a hemisphere. CCN 2025 Extended Abstracts Submission.
 - Maiorca, V., Azeglio, S., Fumero, M., **_Dominé, C._**, Rodolà, E., and Locatello, F., 2024. Multi-subject neural decoding via relative representations. *Cosyne: Poster*.
 - **_Dominé, C. \*_**, Carrasco Davis, R.A.\*, Hollingsworth, L., Sirmpilatze, N., Tyson, A.L., Jarvis, D., Barry, C., and Saxe, A.M., 2023. NeuralPlayground: A Standardised Environment for Evaluation of Hippocampus and Entorhinal Cortex Models. *Cosyne: Poster*.
 - Pegoraro, M.\*, **_Dominé, C.\*_**, Rodolà, E., Veličković, P., and Deac, A., 2023. Geometric Epitope and Paratope Prediction. *bioRxiv*, pp.2023-06. *NeuReps 2023: Symmetry and Geometry in Neural Representations Workshop, NeurIPS 2023*.
@@ -118,7 +120,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 <h3> <span style="color:#DAA520;font-weight:bold">Teaching</span></h3>
 <ul>
-    <li> 2022-2024 - Lecturer Gatsby UCL courses: Bridging Program (Lectures and tutorials). </li>
+    <li> 2022-2025 - Lecturer Gatsby UCL courses: Bridging Program (Lectures and tutorials). </li>
     <li> 2021-2022 - Teaching Assistant for Gatsby UCL courses: Theoretical and Systems Neuroscience Course. (Lectures and tutorials). </li>
     <li> 2021-2022 - Teaching Assistant for the Gatsby UCL courses: The CAJAL Advanced Neuroscience Training. (Lectures and tutorials). </li>
 </ul>
@@ -145,6 +147,8 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 ##### **Funding** <br>
 
 <ul>
+<li> 2025 - ICLR travel grant (400$)</li>
+<li> 2025 - Garantors of the Brain travel grant (1200£)</li>
 <li> 2024 - The KITP follow-on program: Deep Learning from the Perspective of Physics and Neuroscience (1000$).</li>
 <li> 2023 - Google Europe Students with Disabilities Scholarship (7000£). </li>
 <li> 2023 - Grants for PhD students and postdocs in quantitative fields (1000£) </li>
@@ -178,8 +182,9 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 ##### **Comference - Workshop** <br>
 <ul>
-
-<li> 2024 - Paper  Neurips Vancouver (USA).  </li> 
+<li> 2025 - Poster - CCN Amsterdam (Holland).  </li> 
+<li> 2025 - Paper - ICLR Singapore (SGP).  </li> 
+<li> 2024 - Paper - Neurips Vancouver (USA).  </li> 
 <li> 2024 - Talk - Google Deepmind NeuroLab Workshop (UK). </li> 
 <li> 2023 - Attendee - Neurips, New Orleans (USA). </li> 
 <li> 2023 - Attendee -The KITP Program Deep Learning from the Perspective of Physics and Neuroscience, Santa Barbara (USA). </li>
@@ -208,6 +213,10 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 ###### _**Invited talks**_ <br>
 <ul>
+<li> 2025 - Invited talk - Google-DeepMind - Exact learning dynamics of the rich and lazy learning regimes </li>
+<li> 2025 - Invited talk - Oxford - Exact learning dynamics of the rich and lazy learning regimes  </li>
+<li> 2025 - Invited talk - Cortex Club Oxford - NeuralPlayground: A Standardised Environment for Evaluation of Hippocampus and Entorhinal Cortex Models.  </li>
+<li> 2025 - Invited talk - FriSBi ISTA Vienna - Exact learning dynamics of the rich and lazy learning regimes </li>
 <li> 2024 - Invited talk - Flatiron CCN NYU - Exact learning dynamics of the rich and lazy learning regimes </li>
 <li> 2024 - Invited talk - Harvard School of Engineering and Apllied Sciences - Exact learning dynamics of the rich and lazy learning regimes </li>
 <li> 2024 - Panel Speaker at Neuroverse Podcast at SWC - 'Will AI ever fully capture or replicate the brain's complexity?' </li>
@@ -225,6 +234,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 ###### _**Review**_ <br>
 <ul>
+<li> 2025 - CCN </li>
 <li> 2025 - ICLR </li>
 <li> 2024 - COSYNE </li>
 <li> 2023 - NeurIPS (Top Reviewer)  </li>
@@ -233,8 +243,10 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 <li> 2022 - Reviewer for NeurIPS Workshop NeurReps </li>
 </ul>
 
-###### _**Workshop chair**_ <br>
+###### _**External committees**_ <br>
 <ul>
+<li> 2024-2025 - Organisers Generative Adversarial Collaborations: "Does Cognitive Science need Benchmarks?"  CCN 2025 </li>
+<li> 2024-2025 - Organiser ELLIS UniReps Speaker Series </li>
 <li> 2023-2024 - Organiser NeurIPS Workshop: UniReps: 2nd Workshop on Unifying Representations in Neural Models </li>
 <li> 2022-2023 - Organiser NeurIPS Workshop: UniReps: 1st Workshop on Unifying Representations in Neural Models </li>
 </ul>
@@ -253,7 +265,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 ###### _**Outreach**_ <br>
 
 <ul>
-<li> 2023-2024 - DEI representative Gatsby. </li>
+<li> 2023-2025 - DEI representative Gatsby. </li>
 <li> 2023-2024 - <a href="https://drive.google.com/file/d/1DBqWaJWJaR1wE3x1N700Phl-DKhoMpao/view?usp=sharing"> Did this really happen (DTRH)' campaign in UCL And Rome Sapienza.  </a>   </li>
 <li> 2022-2023 - DEI representative Saxe Lab. </li>
 <li> 2022-2023 - Mentor at 'les rencontres ELLES actives'.</li>  
