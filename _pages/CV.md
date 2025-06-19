@@ -12,6 +12,7 @@ nav: true
 
 *First Author
 ##### **Published**
+- **_Domine, C._**, Fumero, M., Lähner, Z., Crisostomi, D., Moschella, L. and Stachenfeld, K., 2025. Proceedings of UniReps: the Second Edition of the Workshop on Unifying Representations in Neural Models. PMLR, 285, pp.1–9.
 - Proca, A.M., **_Dominé, C._**, Shanahan, M. and Mediano, P.A.M., 2025. Learning dynamics in linear recurrent neural networks. Proceedings of the 42nd International Conference on Machine Learning (ICML 2025). **(Oral)**
 - Nam, Y., Lee, S.H., **_Dominé, C._**, Park, Y.C., London, C., Choi, W., Goring, N. and Lee, S., 2025. Position: Solve Layerwise Linear Models First to Understand Neural Dynamical Phenomena (Neural Collapse, Emergence, Lazy/Rich Regime, and Grokking). ICML 2025 Position Paper Track. <a href= "https://arxiv.org/abs/2502.21009"> [paper]</a>  
 - Jarvis, D.\*, Lee, S.\*, **_Dominé, C.\*_**, Saxe, A.M., and Sarao Mannelli, S. (2025). A Theory of Initialisation's Impact on Specialisation. Proceedings of the International Conference on Learning Representations (ICLR 2025). <a href= "https://openreview.net/forum?id=RQz7szbVDs&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)"> [paper]</a> 
@@ -183,7 +184,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 ##### **Comference - Workshop** <br>
 <ul>
 <li> 2025 - Poster - CCN Amsterdam (Holland).  </li> 
-<li> 2025 - Paper - ICLR Singapore (SGP).  </li> 
+<li> 2025 - Paper - ICLR Singapore (SIN).  </li> 
 <li> 2024 - Paper - Neurips Vancouver (USA).  </li> 
 <li> 2024 - Talk - Google Deepmind NeuroLab Workshop (UK). </li> 
 <li> 2023 - Attendee - Neurips, New Orleans (USA). </li> 
