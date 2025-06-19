@@ -1,11 +1,9 @@
 ---
 layout: post
-date: 2024-12-11 08:59:00-0400
+date: 2025-05-11 08:59:00-0400
 inline: true
 ---
 
-I will be at NeurIPS 2024, presenting our **Spotlight** paper [*Get rich quick: exact solutions reveal how unbalanced initializations promote rapid feature learning*](https://arxiv.org/abs/2406.06158).
-
-Make sure to also come along to the [UniReps workshop](https://unireps.org/2024/)!🔵🔴
+🚀 We're excited to launch the [ELLIS UniReps speaker-series](https://unireps.org/speaker-series/), a monthly event exploring how neural models—both biological and artificial—develop similar internal representations, and what this means for learning, alignment, and reuse. Each session features a keynote by a senior researcher and a flash talk by an early-career scientist, fostering cross-disciplinary dialogue at the intersection of AI, neuroscience, and cognitive science! 🔵🔴
 
 
