@@ -13,7 +13,7 @@ nav: true
 *First Author
 ##### **Published**
 - **_Domine, C._**, Fumero, M., Lähner, Z., Crisostomi, D., Moschella, L. and Stachenfeld, K., 2025. Proceedings of UniReps: the Second Edition of the Workshop on Unifying Representations in Neural Models. PMLR, 285, pp.1–9.  <a href= "https://proceedings.mlr.press/v285/domine24a.html"> [paper] 
-- Proca, A.M., **_Dominé, C._**, Shanahan, M. and Mediano, P.A.M., 2025. Learning dynamics in linear recurrent neural networks. Proceedings of the 42nd International Conference on Machine Learning (ICML 2025). **(Oral)**
+- Proca, A.M., **_Dominé, C._**, Shanahan, M. and Mediano, P.A.M., 2025. Learning dynamics in linear recurrent neural networks. Proceedings of the 42nd International Conference on Machine Learning (ICML 2025). a href= "https://openreview.net/forum?id=KGOcrIWYnx"> [paper]  **(Oral)**
 - Nam, Y., Lee, S.H., **_Dominé, C._**, Park, Y.C., London, C., Choi, W., Goring, N. and Lee, S., 2025. Position: Solve Layerwise Linear Models First to Understand Neural Dynamical Phenomena (Neural Collapse, Emergence, Lazy/Rich Regime, and Grokking). ICML 2025 Position Paper Track. <a href= "https://arxiv.org/abs/2502.21009"> [paper]</a>  
 - Jarvis, D.\*, Lee, S.\*, **_Dominé, C.\*_**, Saxe, A.M., and Sarao Mannelli, S. (2025). A Theory of Initialisation's Impact on Specialisation. Proceedings of the International Conference on Learning Representations (ICLR 2025). <a href= "https://openreview.net/forum?id=RQz7szbVDs&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)"> [paper]</a> 
 - **_Dominé, C.\*_**, Anguita, N.\*, Proca, A.M., Braun, L., Kunin, D., Mediano, P.A.M. and Saxe, A.M. (2025). From Lazy to Rich: Exact Learning Dynamics in Deep Linear Networks. Proceedings of the International Conference on Learning Representations (ICLR 2025). <a href= "https://arxiv.org/pdf/2409.14623"> [paper]</a> 
@@ -46,13 +46,14 @@ nav: true
 
 <h3> <span style="color:#DAA520;font-weight:bold">Education </span></h3>
 
-
+#####  **ISTA, Vienna  **
+###### Postdoctoral Researcher (2020 – 2025)
+Working with Dr. Marco Mondelli and Dr. Francesco Locatello on advancing research at the intersection of machine learning theory and representation learning, investigating foundational questions and developing novel methodologies with broad impact across theoretical and applied domains.
 
 ##### **Gatsby Computational Neuroscience Unit, University College London (UCL), London, United Kingdom**
-###### _2020-Present_ <br>
+###### _2020-2025_ <br>
 Ph.D supervised by Andrew Saxe and Caswell Barry, I am studying the theory and computation at the basis of learning and memory. Research direction include: 
 <em>Notable modules:</em> Kernels, Probabilistic, Variational Inference, Reinforcement Learning, Theoretical Neuroscience.
-
 
 
 ##### **The University of Manchester (UoM), Manchester, United Kingdom**
@@ -149,6 +150,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 ##### **Funding** <br>
 
 <ul>
+<li> 2025 - Wits travel grant (1000$)</li>
 <li> 2025 - ICLR travel grant (400$)</li>
 <li> 2025 - Garantors of the Brain travel grant (1200£)</li>
 <li> 2024 - The KITP follow-on program: Deep Learning from the Perspective of Physics and Neuroscience (1000$).</li>
@@ -215,6 +217,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 ###### _**Invited talks**_ <br>
 <ul>
+  <li> 2025 - Invited talk - Wits University - Unifing representations </li>
 <li> 2025 - Invited talk - Google-DeepMind - Exact learning dynamics of the rich and lazy learning regimes </li>
 <li> 2025 - Invited talk - Oxford - Exact learning dynamics of the rich and lazy learning regimes  </li>
 <li> 2025 - Invited talk - Cortex Club Oxford - NeuralPlayground: A Standardised Environment for Evaluation of Hippocampus and Entorhinal Cortex Models.  </li>
@@ -247,6 +250,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 ###### _**External committees**_ <br>
 <ul>
+<li> 2024-2025 - Organiser UniReps x NeuroAI UCL meetup </li>
 <li> 2024-2025 - Organisers Generative Adversarial Collaborations: "Does Cognitive Science need Benchmarks?"  CCN 2025 </li>
 <li> 2024-2025 - Organiser ELLIS UniReps Speaker Series </li>
 <li> 2023-2024 - Organiser NeurIPS Workshop: UniReps: 2nd Workshop on Unifying Representations in Neural Models </li>
