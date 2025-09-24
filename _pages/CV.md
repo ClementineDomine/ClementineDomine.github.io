@@ -28,6 +28,8 @@ nav: true
 - **_Dominé, C.\*_**, Carrasco Davis, R.A. \*, Hollingsworth, L., Sirmpilatze, N., Tyson, A.L., Jarvis, D., Barry, C., and Saxe, A.M., 2024. Neural Playground: A Standardised Environment for Evaluating Models of Hippocampus and Entorhinal Cortex. *bioRxiv*, pp.2024-03. <a href= "https://www.biorxiv.org/content/biorxiv/early/2024/03/12/2024.03.06.583699.full.pdf"> [paper]</a>
 
 ##### **Workshop papers**
+
+- **_Dominé, C._** Exact Learning Dynamics of Bottlenecked and Wide Deep Linear Networks,  UniReps: 3rd Edition of the Workshop on Unifying Representations in Neural Models at Neurips, 2025.
 - Kunin, D., Raventós, A., **_Dominé, C._**, Chen, F., Klindt, D., Saxe, A. \& Ganguli, S., 2024. Get rich quick: Exact solutions reveal how unbalanced initializations promote rapid feature learning. DeepMath 2024 
 - Jarvis, D\*; Lee,S\*;  **_Dominé, C.\*_**;  Sarao Mannelli , S;   Saxe ,A.M.; A Theory of Initialisation's Impact on Specialisation’.  NeurIPS 2024 Workshop on Mathematics of Modern Machine Learning.
 - **_Dominé, C.\*_**; Anguita,N\*; Proca, AM.; Braun, L; Kunin; D Mediano, P.A.M.; Saxe , A.M.; 2024. From Lazy to Rich: Exact Learning Dynamics in Deep Linear Networks. NeurIPS 2024 Workshop on Mathematics of Modern Machine Learning.
@@ -46,7 +48,7 @@ nav: true
 
 <h3> <span style="color:#DAA520;font-weight:bold">Education </span></h3>
 
-#####  **ISTA, Vienna**
+#####  **ISTA, Vienna  **
 ###### Postdoctoral Researcher (2020 – 2025)
 Working with Dr. Marco Mondelli and Dr. Francesco Locatello on advancing research at the intersection of machine learning theory and representation learning, investigating foundational questions and developing novel methodologies with broad impact across theoretical and applied domains.
 
