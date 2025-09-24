@@ -46,7 +46,7 @@ nav: true
 
 <h3> <span style="color:#DAA520;font-weight:bold">Education </span></h3>
 
-#####  **ISTA, Vienna  **
+#####  **ISTA, Vienna**
 ###### Postdoctoral Researcher (2020 – 2025)
 Working with Dr. Marco Mondelli and Dr. Francesco Locatello on advancing research at the intersection of machine learning theory and representation learning, investigating foundational questions and developing novel methodologies with broad impact across theoretical and applied domains.
 
