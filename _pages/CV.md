@@ -5,7 +5,6 @@ title: CV
 
 nav: true 
 ---
-## Computational Neurosicence PhD Student
 
 ***
 <h3> <span style="color:#DAA520;font-weight:bold">Publications - Posters </span></h3>
@@ -219,8 +218,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 <ul>
 <li> <a href="https://www.youtube.com/watch?v=vxcWo-YVyGE"> 2023 - Accepted Talk: Clémentine C. J. Dominé*, Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' (Top 3%)  </a>   </li>
 <li>Thompson, E., Rollik, L., Waked, B., Mills, G., Kaur, J., Geva, B., Carrasco-Davis, R., George, T., Domine, C., Dorrell, W. and Stephenson-Jones, M., 2024. Replay of procedural experience is independent of the hippocampus. bioRxiv, pp.2024-06.  <a href= "https://www.biorxiv.org/content/biorxiv/early/2024/06/06/2024.06.05.597547.full.pdf"> [paper]</a>   Cosyne: Talk. (Top 3%) </li>
-<li> Proca, A.M., Dominé, C., Shanahan, M. and Mediano, P.A.M., 2025. Learning dynamics in linear recurrent neural networks. Proceedings of the 42nd International Conference on Machine Learning (ICML 2025).  <a href= "https://openreview.net/forum?id=KGOcrIWYnx"> [paper] </a> 
-
+<li> Proca, A.M., Dominé, C., Shanahan, M. and Mediano, P.A.M., 2025. Learning dynamics in linear recurrent neural networks. Proceedings of the 42nd International Conference on Machine Learning (ICML 2025).  <a href= "https://openreview.net/forum?id=KGOcrIWYnx"> [paper] </a> </li>
 </ul>
 
 ###### _**Invited talks**_ <br>

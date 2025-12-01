@@ -5,7 +5,7 @@ title: Other
 
 nav: true 
 ---
-## Get to know me better
+
 
 
 <h3> <span style="color:#DAA520; font-weight:bold"> Outreach </span></h3>
