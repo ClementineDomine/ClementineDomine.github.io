@@ -11,6 +11,10 @@ nav: true
 
 *First Author
 ##### **Published**
+- Thompson, E.J., Rollik, L.B., Waked, B., Mills, G., Pati, S., Kaur, J., Geva, B., Li, H., Carrasco-Davis, R., George, T., **_Dominé, C._**, Dorrell, W., and Stephenson-Jones, M., 2026. Replay of procedural memory is independent of the hippocampus. *Nature Neuroscience*. <a href= "https://doi.org/10.1038/s41593-026-02362-5"> [paper]</a>
+- Anguita, N., Locatello, F., Saxe, A.M., Mondelli, M., Mancini, F., Lippl, S.\*, and **_Dominé, C.\*_**, 2026. A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning. International Conference on Machine Learning (ICML 2026). <a href= "https://arxiv.org/abs/2602.20062"> [paper] </a>
+- **_Dominé, C.\*_**, Carrasco Davis, R.A. \*, Hollingsworth, L., Sirmpilatze, N., Tyson, A.L., Jarvis, D., Barry, C., and Saxe, A.M., 2026. Neural Playground: A Standardized Environment for Evaluating Models of Hippocampus and Entorhinal Cortex. *Cognitive Computational Neuroscience (CCN) Proceedings*. <a href= "https://www.biorxiv.org/content/biorxiv/early/2024/03/12/2024.03.06.583699.full.pdf"> [paper]</a>
+- Fumero, M., Cannistraci, I., **_Dominé, C._**, Zhao, B., and Williams, A., 2026. Preface of UniReps: the Third Edition of the Workshop on Unifying Representations in Neural Models. *Proceedings of Machine Learning Research (PMLR)*, 322. <a href= "https://proceedings.mlr.press/v322/fumero26a"> [paper] </a>
 - **_Domine, C._**, Fumero, M., Lähner, Z., Crisostomi, D., Moschella, L. and Stachenfeld, K., 2025. Proceedings of UniReps: the Second Edition of the Workshop on Unifying Representations in Neural Models. PMLR, 285, pp.1–9.  <a href= "https://proceedings.mlr.press/v285/domine24a.html"> [paper] </a> 
 - Proca, A.M., **_Dominé, C._**, Shanahan, M. and Mediano, P.A.M., 2025. Learning dynamics in linear recurrent neural networks. Proceedings of the 42nd International Conference on Machine Learning (ICML 2025). <a href= "https://openreview.net/forum?id=KGOcrIWYnx"> [paper] </a>  **(Oral)**
 - Nam, Y., Lee, S.H., **_Dominé, C._**, Park, Y.C., London, C., Choi, W., Goring, N. and Lee, S., 2025. Position: Solve Layerwise Linear Models First to Understand Neural Dynamical Phenomena (Neural Collapse, Emergence, Lazy/Rich Regime, and Grokking). ICML 2025 Position Paper Track. <a href= "https://arxiv.org/abs/2502.21009"> [paper]</a>  
@@ -23,18 +27,20 @@ nav: true
 - Pegoraro, M. \*, **_Dominé, C.\*_**, Rodolà, E., Veličković, P., and Deac, A., 2023. Geometric Epitope and Paratope Prediction. Bioinformatics, 40(7), p.btae405. <a href= "https://watermark.silverchair.com/btae405.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA3IwggNuBgkqhkiG9w0BBwagggNfMIIDWwIBADCCA1QGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM4ydvBfcc7HtAnOiAAgEQgIIDJYU9tY9XB76PYH4RdFnFLifmUcs4Uv6XLad70aH4s5sPv5tiAxfiAuFGyvBC0LdDDOgb54WAGFSKkCwtJfGMdA8hVFpYS1iEj5YwpRmq4CTdd_xTQ3noNuaOnisKFSqRXyiOVVJSfFLT-b8rxg7iz7H5Aoy2N9adnnUQdOF14mzM3DZ-g6JY8J-QjymkI4_Gyfrpjih4e7-wHbYvoU-G2OCE5Z9KxR8hwf9wYwnULJgEXS2Cj4pzbjgVwCsP-nTbNRwJu5aM37IdGq3DN-bRmEEN9jdSsUl9unorqho5YzglkB2AYW8mqmSTH_6iHonWlenOQRJb135CWpJfZvraRbLXhAS7TqknU-NdsYeah8pW8kTfpu4MuRINImAKMExO1elZTwg9ULF77pm9Sb0DmN3lZen5XyoDUfbIA-01ZpBrLCea3tqfaJ1Y9L9NhrWu_4DZbRJDPCFf2FE7UNxaCW9ejkroJIdib2mCekjczRTeXJSyW8IHfrP4uml2zGab5KYe_JHP2JWCygQ1HBIU-uAzA3UvrO6_B1Doqr8spvPXDW1YcXZYDwyQaAT4hBbrYig6NzzuvWepb29X2UyQREfMMm8Kz4g_IDuzL3BjtcatcT8XbWnosczBm7Gjm7nOxp9pMPHPRgrHV_zA8rR1_R-qLXVLDf9m97xbHBN_dxEg8ptwXW_P9_pW7W1vX7-u6A8F5LiOR67EDPVrfJJVKUOuOKgeOL5IMQZvSbyoJotC8M55rURxKaPsm-vsYBsCVuq84etfRiwGPoMm0LCHepYJCc_Suv0DBRlpPWAGdaxs8TfdxydO8YKuzj-pJa8sIUJ6yPi5B-cqlj0jkH23Ika-nF0tBpqErRRR1ofzq1Sjx8VlXsnYymvwEzkWvERyN-9wdY_rh2yORbOkkjmATlI1DCHrtL5PhPPC-kPhwSXs1DwxsQ8RJA4NjBM3YbmKgkIEK0XyPqMDZ8mkDQhxJZdB1XalR1rsNvh7CUdu9iwj2rqvbgpHkxFH1xnzR5vqA3GOoD7IN2cXsELY5H82X6eTZ1MLmEug6a9_0fpUbQ3VBKC6MXU"> [paper]</a> 
 
 ##### **Pre-Print/Under-Review**
-- Thompson, E., Rollik, L., Waked, B., Mills, G., Kaur, J., Geva, B., Carrasco-Davis, R., George, T., **Domine, C.**, Dorrell, W. and Stephenson-Jones, M., 2024. Replay of procedural experience is independent of the hippocampus. bioRxiv, pp.2024-06.  <a href= "https://www.biorxiv.org/content/biorxiv/early/2024/06/06/2024.06.05.597547.full.pdf"> [paper]</a> 
-- **_Dominé, C.\*_**, Carrasco Davis, R.A. \*, Hollingsworth, L., Sirmpilatze, N., Tyson, A.L., Jarvis, D., Barry, C., and Saxe, A.M., 2024. Neural Playground: A Standardised Environment for Evaluating Models of Hippocampus and Entorhinal Cortex. *bioRxiv*, pp.2024-03. <a href= "https://www.biorxiv.org/content/biorxiv/early/2024/03/12/2024.03.06.583699.full.pdf"> [paper]</a>
+- Njaradi, V., **_Dominé, C._**, Swanson, R., Mondelli, M. and Saxe, A., 2026. Optimal Representation Size: High-Dimensional Analysis of Pretraining and Linear Probing. *arXiv preprint arXiv:2605.20105.* <a href= "https://arxiv.org/abs/2605.20105"> [paper]</a>
 
 ##### **Workshop papers**
 
 - **_Dominé, C._** Exact Learning Dynamics of Bottlenecked and Wide Deep Linear Networks,  UniReps: 3rd Edition of the Workshop on Unifying Representations in Neural Models at Neurips, 2025.
-- Kunin, D., Raventós, A., **_Dominé, C._**, Chen, F., Klindt, D., Saxe, A. \& Ganguli, S., 2024. Get rich quick: Exact solutions reveal how unbalanced initializations promote rapid feature learning. DeepMath 2024 
+- Kunin, D., Raventós, A., **_Dominé, C._**, Chen, F., Klindt, D., Saxe, A. \& Ganguli, S., 2024. Get rich quick: Exact solutions reveal how unbalanced initializations promote rapid feature learning. High-dimensional Learning Dynamics Workshop, ICML 2024.
 - Jarvis, D\*; Lee,S\*;  **_Dominé, C.\*_**;  Sarao Mannelli , S;   Saxe ,A.M.; A Theory of Initialisation's Impact on Specialisation’.  NeurIPS 2024 Workshop on Mathematics of Modern Machine Learning.
 - **_Dominé, C.\*_**; Anguita,N\*; Proca, AM.; Braun, L; Kunin; D Mediano, P.A.M.; Saxe , A.M.; 2024. From Lazy to Rich: Exact Learning Dynamics in Deep Linear Networks. NeurIPS 2024 Workshop on Mathematics of Modern Machine Learning.
+- **_Dominé, C.\*_**; Anguita,N\*; Proca, AM.; Braun, L; Kunin; D Mediano, P.A.M.; Saxe , A.M.; 2024. From Lazy to Rich: Exact Learning Dynamics in Deep Linear Networks. UniReps: 2nd Edition of the Workshop on Unifying Representations in Neural Models.
 - **_Dominé, C.\*_**, Carrasco Davis, R.A. \*, Hollingsworth, L., Sirmpilatze, N., Tyson, A.L., Jarvis, D., Barry, C., and Saxe, A.M.,2023. NeuralPlayground: A Standardised Environment for Evaluation of Hippocampus and Entorhinal Cortex Models. *Cognitive Computational Neuroscience (CCN) Talk*. (Top 5%).
 
 ##### **Abstracts**
+- Njaradi, V., Swanson, R.A., **_Dominé, C._**, Fitzgerald, J.E., and Saxe, A.M., 2026. An Analytically Tractable Model of Optimal Schema Learning and Few-Shot Generalization. *CCN*.
+- Anguita, N., Locatello, F., Saxe, A.M., Mondelli, M., Mancini, F., Lippl, S., and **_Dominé, C._**, 2026. A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning. *CCN*.
 - Proca, A.M., **_Dominé, C._**, Shanahan, M. and Mediano, P.A.M., 2025. Learning dynamics in linear recurrent neural networks. Bernstein Conference  2025 .  <a  href= "https://openreview.net/forum?id=KGOcrIWYnx"> [paper]</a> **(Oral)**
 - Goolam, M.S., **_Dominé, C._**, Hollingsworth, L., Carrasco-Davis, R.A., Tasse, G.N. & Jarvis, D., 2025. Rat on a sphere: Exploring alternate grid cell representations on a hemisphere. CCN 2025 Extended Abstracts Submission.
 - Maiorca, V., Azeglio, S., Fumero, M., **_Dominé, C._**, Rodolà, E., and Locatello, F., 2024. Multi-subject neural decoding via relative representations. *Cosyne: Poster*.
@@ -47,10 +53,6 @@ nav: true
 ***
 
 <h3> <span style="color:#DAA520;font-weight:bold">Education </span></h3>
-
-#####  **Institute of Science and Technology Austria (ISTA), Vienna**
-###### Postdoctoral Researcher, Cluster of Excellence (CoE) Fellowship (2025 – 2026)
-Working with Dr. Marco Mondelli and Dr. Francesco Locatello on advancing research at the intersection of machine learning theory and representation learning, investigating foundational questions and developing novel methodologies with broad impact across theoretical and applied domains.
 
 ##### **Gatsby Computational Neuroscience Unit, University College London (UCL), London, United Kingdom**
 ###### _2020-2025_ <br>
@@ -67,7 +69,7 @@ non-neutral plasma with the ALPHA experiment at CERN. (Master Thesis Part 1 & 2 
 
 <em>Notable modules:</em> Quantum Field Theory, Gauge Theories, Advanced Statistical Physics, Non-Linear Dynamics.
 
-First-Class Honours, Grade 80%
+First-Class Honours, Grade 80% (Top 12%)
 
 
 
@@ -82,14 +84,24 @@ GPA:4.0
 
 <h3> <span style="color:#DAA520;font-weight:bold">Research Experience </span></h3>
 
+##### **Center for Brain Science, Harvard University, Cambridge, MA, USA**
+###### 2026-Present
+<em>CBS Postdoctoral Fellow, Physics of Intelligence</em><br>
+Pursuing research on fundamental scientific questions of artificial intelligence, understanding the behavior of neural networks, and developing reliable AI tools for science, as part of a group of theoretical and experimental neuroscientists and theorists in allied fields.
+
+##### **Institute of Science and Technology Austria (ISTA), Vienna, Austria**
+###### 2025-2026
+<em>Postdoctoral Researcher, Cluster of Excellence (CoE) Fellowship</em><br>
+Working with Dr. Marco Mondelli and Dr. Francesco Locatello on advancing research at the intersection of machine learning theory and representation learning, investigating foundational questions and developing novel methodologies with broad impact across theoretical and applied domains.
+
 ##### **Zuckerman Institute, Columbia University, London, UK** 
 ###### 2024-2025
 <em> Research Scholar  </em><br> 
 Supervised by Dr.Kim Stachenfeld and Pr.Larry Abbott, working on geometric deep learning for generalizing Hippocampal-Entorhinal computation.
 
 ##### **Google DeepMind NeuroLab, Google DeepMind, London, UK**
-###### _2023-2024_
-<em> External Lab Member in London, UK  </em><br>
+###### _2023-2025_
+<em> External Research Collaborator, London, UK  </em><br>
 
 Supervised by Dr. Kim Stachenfeld, working on Geometric deep learning for generalizing hippocampal-entorhinal computation.
 
@@ -125,6 +137,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 <h3> <span style="color:#DAA520;font-weight:bold">Teaching</span></h3>
 <ul>
+    <li> 2026 - Visiting Lecturer, School of Computer Science and Applied Mathematics, University of the Witwatersrand (20 July 2026 - 30 November 2026). </li>
     <li> 2022-2025 - Lecturer Gatsby UCL courses: Bridging Program (Lectures and tutorials). </li>
     <li> 2021-2022 - Teaching Assistant for Gatsby UCL courses: Theoretical and Systems Neuroscience Course. (Lectures and tutorials). </li>
     <li> 2021-2022 - Teaching Assistant for the Gatsby UCL courses: The CAJAL Advanced Neuroscience Training. (Lectures and tutorials). </li>
@@ -155,13 +168,13 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 <li> 2025 - Woman in Machine Learning (WIML) Travel Grant (1350$)</li>
 <li> 2025 - Wits travel grant (1000$)</li>
 <li> 2025 - ICLR travel grant (400$)</li>
-<li> 2025 - Garantors of the Brain travel grant (1200£)</li>
+<li> 2025 - Guarantors of the Brain travel grant (1200£)</li>
 <li> 2024 - The KITP follow-on program: Deep Learning from the Perspective of Physics and Neuroscience (1000$).</li>
 <li> 2023 - Google Europe Students with Disabilities Scholarship (7000£). </li>
-<li> 2023 - Grants for PhD students and postdocs in quantitative fields (1000£) </li>
+<li> 2023 - G-Research grants for PhD students and postdocs in quantitative fields (1000£) </li>
 <li> 2023 - Ponte Costa Lab NeuroAi workshop travel grant (100£). </li>
 <li> 2023 - Princeton ML Theory Summer School travel grant (500$). </li>
-<li> 2023 - Les Houches travel grant (500$).
+<li> 2023 - Les Houches Workshop School of Physics 'Latest advances on biological and artificial neural network' grant (250€).
 </li>
 <li> 2022 - DocSkill grant - CLIE Evening Courses Class List (£390).
 </li>
@@ -171,7 +184,7 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 ##### **Honors** <br>
 <ul>
-<li> 2025 - Woman in Neuroscience UK (WinUK) 2024 - Shortlisted Nominee - Rising Star.  </li>
+<li> 2025 - Woman in Neuroscience UK (WinUK) 2025 - Shortlisted Nominee - Rising Star.  </li>
 <li> 2024 - UCL Inclusion Awards 2024 - Shortlisted Nominee - Sir Stephen Wall Award: Inspiring Role Model.  </li>
 <li> 2023 - Top Reviewer for NeurIPS 2023 and to secure a complimentary registration (500$). </li>
 <li> 2023 - In2research Mentor of the Year award. </li>
@@ -179,8 +192,8 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 <li> 2020 - The Stellify Award is the University’s most prestigious undergraduate extracurricular award (Outstanding efforts in Leadership and Volunteering).
 </li>
 <li> 2018-2019 UCLA Dean's Honors List. </li>
-<li> 2019 - The Entry Scholarship - students gaining A*A*A* grades awarded by the UoM (1000£). </li>
-<li> 2019 - Bourse au mérite Haute-Savoie for French Baccalaureate “Mention Très Bien” with “Félicitations du jury”, grade : 18.5/20. 1,8 % Students qualified) (500€).</li>
+<li> 2016 - The Entry Scholarship - students gaining A*A*A* grades awarded by the UoM (1000£). </li>
+<li> 2016 - Bourse au mérite Haute-Savoie for French Baccalaureate “Mention Très Bien” with “Félicitations du jury”, grade : 18.5/20. 1,8 % Students qualified) (600€).</li>
 </ul>
 
 
@@ -190,6 +203,8 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 ##### **Comference - Workshop** <br>
 <ul>
+<li> 2026 - Talk - Youth in High Dimension, Trieste (IT).  </li> 
+<li> 2026 - Poster - CCN, New York (USA).  </li> 
 <li> 2025 - Poster - NeurIPS, San Diego (USA).  </li> 
 <li> 2025 - Poster - CCN Amsterdam (Holland).  </li> 
 <li> 2025 - Paper - ICLR Singapore (SIN).  </li> 
@@ -207,6 +222,11 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 </ul>
 
 ##### **Additional professional training**
+######  _**Visits**_
+<ul>
+<li> 2025 - Causal Learning and AI Lab with Francesco Locatello, Vienna (Austria)</li>
+</ul>
+
 ######  _**Summer & winter schools attended**_
 <ul>
 <li> 2023 - Princeton ML Theory Summer School (Poster), Princeton (USA)</li> 
@@ -216,13 +236,16 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 ##### **Talks** <br>
 ###### _**Contributed talks**_ <br>
 <ul>
-<li> <a href="https://www.youtube.com/watch?v=vxcWo-YVyGE"> 2023 - Accepted Talk: Clémentine C. J. Dominé*, Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' (Top 3%)  </a>   </li>
-<li>Thompson, E., Rollik, L., Waked, B., Mills, G., Kaur, J., Geva, B., Carrasco-Davis, R., George, T., Domine, C., Dorrell, W. and Stephenson-Jones, M., 2024. Replay of procedural experience is independent of the hippocampus. bioRxiv, pp.2024-06.  <a href= "https://www.biorxiv.org/content/biorxiv/early/2024/06/06/2024.06.05.597547.full.pdf"> [paper]</a>   Cosyne: Talk. (Top 3%) </li>
+<li> <a href="https://www.youtube.com/watch?v=vxcWo-YVyGE"> 2025 - Accepted Talk: Clémentine C. J. Dominé*, Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' (Top 2%)  </a>   </li>
+<li> <a href="https://www.youtube.com/watch?v=vxcWo-YVyGE"> 2023 - Accepted Talk: Clémentine C. J. Dominé*, Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' (Top 5%)  </a>   </li>
+<li>Thompson, E., Rollick, L., Carrasco-Davis, R., Dominé, C., Dorrell, W., George, T., Mills, G., Kaur, J., Stephenson-Jones, M., 2024. Replay of Motor Sequences in the Dorsolateral Striatum during Offline Consolidation are Revealed Using an Unsupervised Point Process Model. bioRxiv, pp.2024-06.  <a href= "https://doi.org/10.1101/2024.06.05.597547"> [paper]</a>   Cosyne: Talk. (Top 3%) </li>
 <li> Proca, A.M., Dominé, C., Shanahan, M. and Mediano, P.A.M., 2025. Learning dynamics in linear recurrent neural networks. Proceedings of the 42nd International Conference on Machine Learning (ICML 2025).  <a href= "https://openreview.net/forum?id=KGOcrIWYnx"> [paper] </a> </li>
 </ul>
 
 ###### _**Invited talks**_ <br>
 <ul>
+<li> <a href="https://indico.ictp.it/event/11153/session/4/contribution/11/material/video/"> 2026 - Invited talk - Youth in High-Dimensions: Recent Progress in Machine Learning, High-Dimensional Statistics and Inference, ICTP Trieste (IT) </a> </li>
+<li> 2026 - Invited talk - KIST - A Theory of How Pretraining Shapes Inductive Bias in Fine-Tuning </li>
 <li> 2025 - Invited talk - Wits University - Unifing representations </li>
 <li> 2025 - Invited talk - Google-DeepMind - Exact learning dynamics of the rich and lazy learning regimes </li>
 <li> 2025 - Invited talk - Oxford - Exact learning dynamics of the rich and lazy learning regimes  </li>
@@ -245,6 +268,9 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 ###### _**Review**_ <br>
 <ul>
+<li> 2026 - NeurIPS (Area Chair) </li>
+<li> 2026 - CCN </li>
+<li> 2026 - ICML </li>
 <li> 2025 - CCN </li>
 <li> 2025 - ICLR </li>
 <li> 2024 - COSYNE </li>
@@ -256,10 +282,11 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 
 ###### _**External committees**_ <br>
 <ul>
-<li> 2025-2026 - CCN DEI Committee  </li>
+<li> 2025-2026 - CCN DEI Committee Member  </li>
 <li> 2024-2025 - Organiser UniReps x NeuroAI UCL meetup </li>
 <li> 2024-2025 - Organisers Generative Adversarial Collaborations: "Does Cognitive Science need Benchmarks?"  CCN 2025 </li>
 <li> 2024-2025 - Organiser ELLIS UniReps Speaker Series </li>
+<li> 2024-2025 - Organiser NeurIPS Workshop: UniReps: 3rd Workshop on Unifying Representations in Neural Models </li>
 <li> 2023-2024 - Organiser NeurIPS Workshop: UniReps: 2nd Workshop on Unifying Representations in Neural Models </li>
 <li> 2022-2023 - Organiser NeurIPS Workshop: UniReps: 1st Workshop on Unifying Representations in Neural Models </li>
 </ul>
@@ -278,9 +305,9 @@ The ALPHA experiment is working with trapped anti-hydrogen atoms and aims at stu
 ###### _**Outreach**_ <br>
 
 <ul>
-<li> 2023-2025 - DEI representative Gatsby. </li>
+<li> 2023-2024 - DEI representative Gatsby. </li>
 <li> 2023-2024 - <a href="https://drive.google.com/file/d/1DBqWaJWJaR1wE3x1N700Phl-DKhoMpao/view?usp=sharing"> Did this really happen (DTRH)' campaign in UCL And Rome Sapienza.  </a>   </li>
-<li> 2022-2023 - DEI representative Saxe Lab. </li>
+<li> 2022-2024 - DEI representative Saxe Lab. </li>
 <li> 2022-2023 - Mentor at 'les rencontres ELLES actives'.</li>  
 <li> 2022-2023 - <a href="https://www.youtube.com/watch?v=qIuFOMr0q4A&feature=youtu.be">Podcast. </a>   </li>
 <li> 2022-2023 - <a href="https://podcasters.spotify.com/pod/show/neuroverse9/episodes/49--Neuro-Inspired-AI-with-Clmentine-Domin-e23rm7f">Neuro-Inspired AI with Clémentine Dominé. </a>   </li>
@@ -318,6 +345,7 @@ Blog - Art and Sciences (@artlovessciences). <br>
 
 ###### **Volonteering** <br>
 <ul>
+<li> British Red Cross Volunteer </li>
 <li> 2025 - WIML Neurips 2025 Comference Volonteer </li>
 <li> 2023 - WIML Neurips 2023 Comference Volonteer </li>
 <li> 2022 - Half-marathon fundraising for Rape Crisis England & Wales </li>

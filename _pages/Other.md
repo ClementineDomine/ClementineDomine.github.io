@@ -8,9 +8,12 @@ nav: true
 
 
 
-<h3> <span style="color:#DAA520; font-weight:bold"> Outreach </span></h3>
+<h3> <span style="color:#DAA520; font-weight:bold"> Public Engagment</span></h3>
 
 <ul>
+<li> <a href="https://indico.ictp.it/event/11153/session/4/contribution/11/material/video/">  Youth in High-Dimensions: Recent Progress in Machine Learning, High-Dimensional Statistics and Inference - Invited talk, ICTP Trieste </a>  </li> 
+<li> <a href="https://www.sainsburywellcome.org/blog/muscle-memories-how-does-sleep-produce-consolidation"> 
+Muscle memories: how does sleep produce consolidation?  </a>  </li> 
 <li> <a href="https://www.sainsburywellcome.org/web/blog/hopfield-hinton-and-hassabis-2024-nobel-laureates-shaping-neuroscience">  Hopfield, Hinton, and Hassabis: 2024 Nobel laureates shaping neuroscience  </a> </li> 
 <li> <a href="https://www.youtube.com/watch?v=qIuFOMr0q4A&feature=youtu.be"> Podcast ML in Neuroscience </a>   </li>
 <li> <a href="https://www.youtube.com/watch?v=vxcWo-YVyGE"> 2023 - Accepted Talk: Clémentine C. J. Dominé*, Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models' (Top 3%)  </a>   </li>
@@ -20,20 +23,9 @@ nav: true
 <li> <a href="https://www.youtube.com/watch?v=4QWHw1gLgfY"> Andrew Saxe, PhD, 2023 Blavatnik Awards  </a> </li>
 <li> <a href="https://www.youtube.com/watch?v=ZE2Zqb3wvdI"> Sainsbury Wellcome Centre: Research Mission </a> </li> 
 <li> <a href="https://www.youtube.com/watch?v=AdXOrtXMr8E"> Sainsbury Wellcome Centre: Research Culture </a> </li>
+
 </ul>
 
-
-***
-
-<h3> <span style="color:#DAA520;font-weight:bold"> Lectures and Writting  </span></h3>
-
-<ul>
-<li><a href=" https://drive.google.com/file/d/1QWlE49cMUyxjuUWd7MaqTuKwe9ovqTE3/view?usp=sharing "> Criptography Lecture </a> </li>
-<li> <a href="https://drive.google.com/file/d/1tqvEwYJhqrCzbVh-6tXCAesd3rQCXDIH/view?usp=sharing"> Master thesis part 1</a>  </li>
-<li>  <a href="https://drive.google.com/file/d/1nQVe2dTjuFWiyDUziA5VSmehkd7SCtaS/view?usp=sharing"> Master thesis part 2</a> </li>
-<li> <a href="https://drive.google.com/file/d/100-3g1coMObuSQ8FVzmd1PXJLDPNUo2f/view?usp=sharing"> Advances in particle-accelerator technology </a> </li>
-<li> <a href="https://drive.google.com/file/d/1VuMzCsp-LFzcWrBS8n4M8rq5PQV-m5Dz/view?usp=sharing"> Discovering the Unknow at the LHC </a> </li>
-</ul>
 
 
 *****
