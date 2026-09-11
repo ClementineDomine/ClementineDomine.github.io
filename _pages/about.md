@@ -23,6 +23,7 @@ I am a CBS Postdoctoral Fellow in the Physics of Intelligence at Harvard Univers
 My research lies at the intersection of theoretical neuroscience and theoretical machine learning. Broadly, I aim to understand how the brain learns and builds representations to carry out complex behaviors—such as continual, curriculum, and reversal learning, as well as the acquisition of structured knowledge. I develop mathematical frameworks rooted in deep learning theory to describe adaptive and complex learning mechanisms, addressing questions that bridge machine learning and cognitive neuroscience.
 
 **Trainning**
+
 I was a Postdoctoral Researcher at ISTA, supported by a Cluster of Excellence (CoE) Fellowship, where I worked with Professors Marco Mondelli and Francesco Locatello. Previously, I completed my PhD at the Gatsby Computational Neuroscience Unit under the supervision of Andrew Saxe and Caswell Barry. I hold a degree in Theoretical Physics from the University of Manchester, which included an exchange at the University of California, Los Angeles (UCLA).
 
 
